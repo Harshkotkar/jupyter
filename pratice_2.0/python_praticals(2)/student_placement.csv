@@ -1,0 +1,51 @@
+student_id,name,gender,age,city,degree,cgpa,university,company,package,status
+101,Aarav Sharma,Male,22,Mumbai,B.Tech,8.5,IIT Bombay,Google,12.0,Placed
+102,Neha Verma,Female,23,Delhi,MBA,7.8,IIM Bangalore,Amazon,15.0,Placed
+103,Sameer Khan,Male,21,Bangalore,BCA,6.9,Christ University,Infosys,6.0,Placed
+104,Priya Desai,Female,22,Pune,B.Tech,8.2,COEP,Wipro,5.5,Placed
+105,Rohan Joshi,Male,24,Hyderabad,M.Tech,9.1,IIIT Hyderabad,Microsoft,18.0,Placed
+106,Ananya Singh,Female,22,Kolkata,BBA,7.5,Jadavpur University,TCS,4.8,Placed
+107,Arjun Mehta,Male,23,Chennai,MBA,6.8,IIM Ahmedabad,Capgemini,5.2,Placed
+108,Ishita Kapoor,Female,21,Mumbai,B.Sc,8.0,Mumbai University,Infosys,6.2,Placed
+109,Vikram Sethi,Male,22,Delhi,B.Tech,6.5,DTU,,0.0,Not Placed
+110,Pooja Iyer,Female,23,Bangalore,MCA,7.9,PES University,Cognizant,5.6,Placed
+111,Amit Patel,Male,21,Pune,BCA,5.9,Savitribai Phule University,,0.0,Not Placed
+112,Shruti Nair,Female,22,Hyderabad,B.Tech,7.3,Osmania University,Accenture,6.4,Placed
+113,Kunal Gupta,Male,24,Kolkata,M.Tech,8.7,IIT Kharagpur,Adobe,16.5,Placed
+114,Sanya Malhotra,Female,23,Delhi,MBA,8.4,IIM Calcutta,JP Morgan,14.0,Placed
+115,Varun Bhasin,Male,21,Mumbai,B.Sc,6.2,Mumbai University,,0.0,Not Placed
+116,Rehan Siddiqui,Male,22,Chennai,B.Tech,8.1,Anna University,HCL,5.0,Placed
+117,Megha Reddy,Female,23,Hyderabad,MBA,7.9,ISB,Deloitte,9.0,Placed
+118,Harsh Tiwari,Male,24,Delhi,B.Tech,8.3,NIT Delhi,Flipkart,10.5,Placed
+119,Shreya Jain,Female,22,Pune,BBA,7.2,Symbiosis University,ICICI Bank,4.5,Placed
+120,Rajesh Malhotra,Male,21,Kolkata,BCA,6.7,Calcutta University,TCS,3.8,Placed
+121,Ankit Saxena,Male,22,Jaipur,B.Tech,8.0,JECRC University,Tech Mahindra,5.6,Placed
+122,Nidhi Garg,Female,23,Mumbai,M.Tech,9.0,IIT Bombay,Oracle,17.2,Placed
+123,Ravi Shankar,Male,24,Chennai,B.Tech,6.5,SRM University,,0.0,Not Placed
+124,Simran Kaur,Female,21,Delhi,B.Sc,7.8,DU,IBM,6.0,Placed
+125,Deepak Verma,Male,23,Bangalore,MBA,8.1,IIM Bangalore,McKinsey,20.0,Placed
+126,Sneha Roy,Female,22,Kolkata,B.Tech,8.9,Jadavpur University,Google,12.5,Placed
+127,Manoj Nair,Male,24,Hyderabad,BCA,5.8,Osmania University,,0.0,Not Placed
+128,Tanvi Sharma,Female,22,Jaipur,B.Sc,7.1,JECRC University,HCL,4.2,Placed
+129,Shashank Singh,Male,23,Delhi,B.Tech,7.7,DTU,Adobe,14.5,Placed
+130,Priyanshi Gupta,Female,21,Mumbai,BBA,6.5,NMIMS,,0.0,Not Placed
+131,Arun Choudhary,Male,22,Bangalore,B.Tech,8.2,Christ University,Infosys,6.3,Placed
+132,Payal Deshmukh,Female,23,Pune,MBA,7.5,MIT Pune,Ernst & Young,9.8,Placed
+133,Rahul Jaiswal,Male,24,Hyderabad,BCA,6.9,Osmania University,TCS,4.5,Placed
+134,Sonali Mishra,Female,21,Kolkata,B.Tech,9.2,Jadavpur University,Microsoft,22.0,Placed
+135,Varun Anand,Male,22,Delhi,M.Tech,8.0,IIIT Delhi,IBM,12.0,Placed
+136,Sanya Kapoor,Female,23,Mumbai,B.Tech,8.3,IIT Bombay,Flipkart,11.5,Placed
+137,Ayush Pandey,Male,24,Chennai,B.Sc,5.5,SRM University,,0.0,Not Placed
+138,Kavita Mehta,Female,21,Jaipur,BBA,6.9,JECRC University,HDFC Bank,5.0,Placed
+139,Aman Srivastava,Male,22,Bangalore,B.Tech,7.4,RV College of Engineering,Cisco,8.5,Placed
+140,Divya Yadav,Female,23,Pune,M.Tech,8.7,COEP,Oracle,15.3,Placed
+141,Rahul Sharma,Male,24,Hyderabad,B.Tech,6.1,Osmania University,,0.0,Not Placed
+142,Meera Das,Female,22,Kolkata,B.Sc,7.3,Calcutta University,Capgemini,5.4,Placed
+143,Amit Khanna,Male,23,Delhi,BBA,6.5,DU,ICICI Bank,4.8,Placed
+144,Neeraj Sinha,Male,24,Mumbai,B.Tech,9.0,IIT Bombay,Google,18.0,Placed
+145,Nikita Agrawal,Female,21,Bangalore,BCA,7.0,Christ University,Accenture,6.0,Placed
+146,Vishal Choudhary,Male,22,Pune,B.Tech,8.5,COEP,Flipkart,10.0,Placed
+147,Smita Raj,Female,23,Delhi,MBA,7.4,IIM Indore,JP Morgan,13.0,Placed
+148,Kiran Joshi,Male,24,Jaipur,M.Tech,6.8,JECRC University,,0.0,Not Placed
+149,Aditya Kapoor,Male,21,Mumbai,BCA,5.9,NMIMS,,0.0,Not Placed
+150,Shalini Verma,Female,22,Hyderabad,B.Tech,8.3,IIIT Hyderabad,Facebook,22.0,Placed

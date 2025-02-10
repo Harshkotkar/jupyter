@@ -1,0 +1,1001 @@
+student_id,name,gender,age,city,degree,cgpa,university,company,package,status
+10001,Kabir Das,Female,26,Lucknow,MBA,9.27,Anna University,Unplaced,33.09,Placed
+10002,Riya Kumar,Male,19,Bangalore,B.Tech,10,Anna University,Unplaced,0,Unplaced
+10003,Ishaan Sharma,Male,21,Hyderabad,B.A,6.58,VIT,Unplaced,0,Unplaced
+10004,Aarav Sharma,Female,27,Kolkata,B.Tech,6.87,IIT Delhi,Infosys,17.36,Placed
+10005,Riya Sharma,Male,18,Mumbai,B.Tech,9.37,IIT Bombay,Wipro,20.71,Placed
+10006,Ishaan Mehta,Male,25,Chennai,B.Sc,6.81,IISc Bangalore,Unplaced,0,Unplaced
+10007,Saanvi Reddy,Female,20,Lucknow,MBA,6.54,Manipal University,Unplaced,0,Unplaced
+10008,Ishaan Das,Female,26,Delhi,B.Tech,7.36,DU,Infosys,10.75,Placed
+10009,Vihaan Reddy,Male,23,Chennai,M.Tech,6.25,Manipal University,Unplaced,0,Unplaced
+10010,Aarav Gupta,Male,27,Mumbai,MBA,9.05,BITS Pilani,Unplaced,0,Unplaced
+10011,Anika Chopra,Male,26,Chennai,B.Sc,8.24,IISc Bangalore,Deloitte,9.58,Placed
+10012,Mira Singh,Male,18,Kolkata,B.Sc,9.06,IIT Delhi,Unplaced,0,Unplaced
+10013,Vihaan Kumar,Male,27,Jaipur,M.Tech,7.7,DU,Unplaced,34.92,Placed
+10014,Zoya Singh,Male,23,Chennai,B.A,6.16,VIT,Unplaced,0,Unplaced
+10015,Vihaan Sharma,Male,21,Lucknow,B.Tech,9.38,Anna University,Unplaced,0,Unplaced
+10016,Aarav Das,Female,27,Delhi,B.Tech,9.5,IIT Bombay,Infosys,22.18,Placed
+10017,Aarav Sharma,Male,23,Ahmedabad,B.Sc,7.73,NIT Trichy,Microsoft,16.78,Placed
+10018,Ishaan Nair,Female,26,Pune,B.Sc,6.26,IIT Delhi,TCS,7.07,Placed
+10019,Zoya Patel,Male,19,Mumbai,M.Sc,8.59,Anna University,Unplaced,0,Unplaced
+10020,Vihaan Das,Male,19,Delhi,M.Sc,8.53,NIT Trichy,Unplaced,0,Unplaced
+10021,Zoya Das,Female,26,Ahmedabad,B.Tech,7.18,BITS Pilani,Unplaced,0,Unplaced
+10022,Saanvi Singh,Female,20,Jaipur,B.Tech,8.02,VIT,Unplaced,0,Unplaced
+10023,Riya Sharma,Female,18,Hyderabad,B.Sc,9.03,IIT Bombay,Microsoft,17.26,Placed
+10024,Vihaan Singh,Female,18,Bangalore,B.A,8.33,Anna University,Unplaced,0,Unplaced
+10025,Ishaan Kumar,Female,19,Mumbai,PhD,8.23,IIT Delhi,Infosys,31.08,Placed
+10026,Zoya Das,Male,20,Pune,MBA,6.37,Anna University,Infosys,12.57,Placed
+10027,Ishaan Nair,Male,25,Mumbai,B.Com,8.2,NIT Trichy,Amazon,13.52,Placed
+10028,Mira Nair,Male,20,Bangalore,B.Sc,9.51,IIT Delhi,Google,7.24,Placed
+10029,Anika Das,Male,20,Chennai,M.Tech,9.98,DU,IBM,7.41,Placed
+10030,Riya Gupta,Female,27,Kolkata,MBA,7.53,Manipal University,TCS,26.54,Placed
+10031,Zoya Patel,Female,22,Chennai,PhD,6.6,BITS Pilani,IBM,32.66,Placed
+10032,Vihaan Nair,Female,21,Mumbai,M.Sc,9.74,Anna University,Unplaced,0,Unplaced
+10033,Riya Patel,Female,19,Mumbai,B.Sc,7.84,IIT Delhi,Deloitte,27.8,Placed
+10034,Ishaan Mehta,Female,20,Lucknow,MBA,7.73,IIT Delhi,Unplaced,0,Unplaced
+10035,Zoya Nair,Female,19,Hyderabad,M.Tech,6.28,VIT,Unplaced,0,Unplaced
+10036,Vihaan Reddy,Female,18,Chennai,B.Com,8.27,IISc Bangalore,Unplaced,0,Unplaced
+10037,Anika Patel,Female,18,Bangalore,B.Com,9.43,NIT Trichy,Unplaced,0,Unplaced
+10038,Aarav Kumar,Female,26,Kolkata,B.Com,7.06,BITS Pilani,Unplaced,0,Unplaced
+10039,Riya Gupta,Male,18,Delhi,B.Sc,8.72,Manipal University,Google,12.54,Placed
+10040,Ishaan Das,Male,20,Lucknow,M.Tech,7.38,DU,Unplaced,0,Unplaced
+10041,Riya Kumar,Female,20,Chennai,PhD,6.7,NIT Trichy,Accenture,19.87,Placed
+10042,Aryan Nair,Male,27,Hyderabad,B.Com,6.02,VIT,Unplaced,24.86,Placed
+10043,Ishaan Gupta,Female,21,Pune,B.A,7.4,Manipal University,Unplaced,0,Unplaced
+10044,Ishaan Nair,Female,22,Delhi,M.Sc,6.78,NIT Trichy,Google,7.58,Placed
+10045,Vihaan Kumar,Female,22,Mumbai,B.Sc,8.17,BITS Pilani,Unplaced,0,Unplaced
+10046,Anika Nair,Male,23,Lucknow,M.Sc,7.99,IIT Bombay,IBM,16.62,Placed
+10047,Zoya Gupta,Female,21,Bangalore,B.Com,6.98,JNU,Infosys,24.17,Placed
+10048,Aarav Chopra,Female,18,Delhi,B.Sc,7.47,IISc Bangalore,Unplaced,0,Unplaced
+10049,Zoya Sharma,Female,21,Pune,B.A,6.83,IIT Bombay,Unplaced,0,Unplaced
+10050,Anika Nair,Male,25,Ahmedabad,M.Sc,8.88,IIT Delhi,Unplaced,0,Unplaced
+10051,Aarav Gupta,Female,18,Mumbai,M.Tech,8.95,BITS Pilani,Unplaced,0,Unplaced
+10052,Ishaan Gupta,Male,24,Ahmedabad,B.A,9.98,VIT,Unplaced,0,Unplaced
+10053,Zoya Kumar,Female,24,Pune,PhD,6.64,NIT Trichy,Unplaced,0,Unplaced
+10054,Aryan Patel,Male,21,Delhi,B.Sc,6.06,JNU,Capgemini,19.13,Placed
+10055,Zoya Kumar,Female,19,Mumbai,M.Tech,9.43,IIT Bombay,Capgemini,33.6,Placed
+10056,Ishaan Kumar,Female,23,Delhi,MBA,8.16,IIT Bombay,Unplaced,0,Unplaced
+10057,Aarav Sharma,Male,19,Hyderabad,PhD,9.65,VIT,Unplaced,0,Unplaced
+10058,Anika Singh,Male,27,Jaipur,B.Sc,8.89,NIT Trichy,Deloitte,18.34,Placed
+10059,Zoya Reddy,Male,18,Mumbai,B.Tech,7.9,NIT Trichy,Unplaced,0,Unplaced
+10060,Riya Das,Male,25,Mumbai,MBA,8.52,IISc Bangalore,IBM,8.17,Placed
+10061,Ishaan Chopra,Male,20,Delhi,PhD,6.16,IISc Bangalore,Unplaced,0,Unplaced
+10062,Riya Mehta,Male,19,Lucknow,B.Sc,6.72,Manipal University,Amazon,7.12,Placed
+10063,Zoya Das,Female,24,Bangalore,B.A,8.11,IIT Bombay,Wipro,18.5,Placed
+10064,Vihaan Reddy,Female,23,Delhi,B.A,9.25,NIT Trichy,Microsoft,10.73,Placed
+10065,Kabir Das,Female,27,Bangalore,B.Sc,7.34,DU,Unplaced,0,Unplaced
+10066,Anika Singh,Male,25,Delhi,B.A,6.94,Manipal University,Unplaced,0,Unplaced
+10067,Ishaan Gupta,Male,23,Bangalore,PhD,7.96,JNU,Deloitte,11.19,Placed
+10068,Ishaan Patel,Male,27,Bangalore,M.Sc,6.52,VIT,Infosys,16.61,Placed
+10069,Riya Mehta,Male,21,Ahmedabad,M.Tech,9.39,VIT,Unplaced,0,Unplaced
+10070,Anika Kumar,Female,18,Lucknow,B.Tech,7.95,JNU,Infosys,29.01,Placed
+10071,Riya Gupta,Male,18,Kolkata,B.Sc,8.74,JNU,Unplaced,0,Unplaced
+10072,Aarav Patel,Female,23,Kolkata,PhD,9.07,BITS Pilani,Capgemini,3.2,Placed
+10073,Zoya Chopra,Male,27,Delhi,M.Sc,9.98,IIT Delhi,Google,30.4,Placed
+10074,Aryan Gupta,Female,25,Hyderabad,B.Com,8.32,BITS Pilani,Unplaced,0,Unplaced
+10075,Saanvi Chopra,Female,21,Hyderabad,PhD,9.91,DU,Microsoft,11.07,Placed
+10076,Kabir Singh,Male,27,Ahmedabad,B.Com,7.77,IIT Bombay,Infosys,24.73,Placed
+10077,Saanvi Chopra,Female,23,Kolkata,PhD,7.39,IIT Delhi,Unplaced,0,Unplaced
+10078,Aarav Reddy,Female,27,Hyderabad,PhD,8.13,Manipal University,Wipro,6.05,Placed
+10079,Zoya Gupta,Male,19,Delhi,M.Tech,7.02,DU,Google,22.05,Placed
+10080,Kabir Gupta,Female,18,Ahmedabad,PhD,6.7,BITS Pilani,Unplaced,0,Unplaced
+10081,Saanvi Nair,Male,26,Ahmedabad,PhD,7.34,DU,Unplaced,0,Unplaced
+10082,Riya Mehta,Female,25,Bangalore,B.Sc,8.27,DU,Google,4.56,Placed
+10083,Ishaan Sharma,Female,20,Chennai,B.A,6.9,VIT,Unplaced,0,Unplaced
+10084,Zoya Das,Female,18,Lucknow,M.Tech,7.7,Anna University,Unplaced,0,Unplaced
+10085,Aryan Gupta,Male,18,Hyderabad,B.Sc,8.03,NIT Trichy,Unplaced,0,Unplaced
+10086,Aryan Reddy,Male,20,Mumbai,B.A,9.7,IIT Delhi,Unplaced,0,Unplaced
+10087,Zoya Nair,Female,20,Delhi,M.Sc,7.9,VIT,TCS,18.68,Placed
+10088,Aryan Das,Male,24,Kolkata,B.Sc,6.4,IIT Bombay,Infosys,32.28,Placed
+10089,Ishaan Patel,Male,19,Lucknow,B.A,8.93,NIT Trichy,Accenture,11.42,Placed
+10090,Anika Reddy,Male,19,Mumbai,MBA,8.67,IISc Bangalore,Unplaced,0,Unplaced
+10091,Kabir Gupta,Male,20,Mumbai,B.Tech,6.43,Anna University,Unplaced,0,Unplaced
+10092,Mira Sharma,Female,23,Kolkata,B.Tech,7.05,JNU,Google,3.89,Placed
+10093,Zoya Gupta,Female,18,Lucknow,B.Com,8.52,VIT,Unplaced,0,Unplaced
+10094,Vihaan Das,Male,26,Bangalore,B.Sc,7.66,IIT Bombay,Unplaced,0,Unplaced
+10095,Mira Chopra,Female,19,Mumbai,M.Tech,7.96,NIT Trichy,Unplaced,28.94,Placed
+10096,Aarav Gupta,Female,18,Kolkata,B.Tech,9.94,IIT Bombay,Capgemini,28.45,Placed
+10097,Mira Reddy,Female,20,Ahmedabad,M.Tech,9.56,BITS Pilani,Microsoft,27.58,Placed
+10098,Aarav Mehta,Male,24,Delhi,B.Com,9.95,NIT Trichy,Unplaced,0,Unplaced
+10099,Aarav Gupta,Male,23,Pune,M.Tech,6.73,IISc Bangalore,Unplaced,0,Unplaced
+10100,Zoya Nair,Female,26,Ahmedabad,MBA,6.8,Manipal University,Amazon,18.64,Placed
+10101,Ishaan Chopra,Female,26,Hyderabad,M.Tech,6.76,BITS Pilani,Unplaced,0,Unplaced
+10102,Riya Nair,Male,18,Mumbai,B.Com,6.26,IIT Bombay,Wipro,24.23,Placed
+10103,Riya Kumar,Male,24,Pune,B.A,7.09,JNU,Infosys,11.93,Placed
+10104,Kabir Mehta,Female,20,Jaipur,B.A,6,IIT Bombay,Unplaced,10.79,Placed
+10105,Riya Sharma,Female,27,Lucknow,M.Tech,9.76,NIT Trichy,Unplaced,0,Unplaced
+10106,Anika Kumar,Male,26,Pune,B.Com,6.18,BITS Pilani,Amazon,18.79,Placed
+10107,Riya Gupta,Female,20,Mumbai,M.Tech,8,NIT Trichy,Unplaced,0,Unplaced
+10108,Mira Nair,Male,18,Chennai,M.Tech,7.23,BITS Pilani,Microsoft,7.7,Placed
+10109,Zoya Nair,Male,18,Jaipur,PhD,9.11,IIT Bombay,Google,24.13,Placed
+10110,Zoya Chopra,Male,19,Pune,M.Tech,8.27,Manipal University,Unplaced,0,Unplaced
+10111,Zoya Gupta,Male,26,Chennai,B.Tech,9.65,Manipal University,Google,18.81,Placed
+10112,Kabir Singh,Male,23,Lucknow,B.Com,8.99,JNU,Wipro,14.09,Placed
+10113,Vihaan Gupta,Female,26,Ahmedabad,B.Sc,7.33,NIT Trichy,Google,6.69,Placed
+10114,Vihaan Kumar,Male,26,Hyderabad,M.Sc,9.94,JNU,Unplaced,0,Unplaced
+10115,Aarav Gupta,Male,19,Mumbai,B.Sc,9.24,BITS Pilani,Unplaced,0,Unplaced
+10116,Zoya Mehta,Female,20,Hyderabad,M.Tech,6.11,IIT Bombay,Unplaced,0,Unplaced
+10117,Aarav Chopra,Male,21,Hyderabad,B.A,9.79,VIT,Unplaced,0,Unplaced
+10118,Saanvi Nair,Female,19,Chennai,M.Sc,9.67,NIT Trichy,Wipro,4.66,Placed
+10119,Ishaan Reddy,Male,26,Jaipur,M.Sc,6.94,IIT Delhi,Unplaced,0,Unplaced
+10120,Zoya Chopra,Female,23,Mumbai,B.Com,9.07,IIT Bombay,Unplaced,0,Unplaced
+10121,Zoya Chopra,Female,21,Mumbai,B.Sc,7.18,Anna University,Unplaced,22.68,Placed
+10122,Ishaan Patel,Female,19,Hyderabad,B.Com,9.84,Anna University,Deloitte,27.78,Placed
+10123,Kabir Singh,Male,26,Lucknow,B.Tech,8.18,NIT Trichy,Accenture,6,Placed
+10124,Saanvi Mehta,Female,21,Bangalore,B.Tech,9.28,IISc Bangalore,Unplaced,0,Unplaced
+10125,Mira Sharma,Male,26,Chennai,B.Sc,9.57,Anna University,Unplaced,0,Unplaced
+10126,Kabir Kumar,Male,19,Jaipur,MBA,6.76,IIT Bombay,Wipro,23.07,Placed
+10127,Vihaan Reddy,Male,27,Delhi,MBA,8.02,IIT Delhi,Unplaced,0,Unplaced
+10128,Kabir Patel,Male,18,Delhi,B.Sc,6.15,NIT Trichy,Google,11.07,Placed
+10129,Aryan Nair,Female,18,Delhi,M.Sc,8.75,JNU,Amazon,24.62,Placed
+10130,Aarav Nair,Male,18,Ahmedabad,MBA,9.3,JNU,Microsoft,17.23,Placed
+10131,Vihaan Nair,Male,23,Jaipur,M.Tech,8.23,Anna University,Unplaced,0,Unplaced
+10132,Anika Chopra,Male,19,Jaipur,PhD,8.16,JNU,Unplaced,0,Unplaced
+10133,Saanvi Chopra,Female,26,Delhi,PhD,9.6,Anna University,Unplaced,0,Unplaced
+10134,Zoya Chopra,Male,26,Jaipur,B.A,9.57,Anna University,Unplaced,0,Unplaced
+10135,Saanvi Nair,Male,20,Pune,B.Tech,6.96,Anna University,Unplaced,0,Unplaced
+10136,Mira Kumar,Male,24,Mumbai,B.Sc,9.17,IIT Bombay,Google,5.46,Placed
+10137,Saanvi Nair,Male,20,Kolkata,B.Sc,8.45,VIT,TCS,9.96,Placed
+10138,Zoya Kumar,Female,18,Bangalore,B.Tech,6.75,NIT Trichy,Unplaced,16.79,Placed
+10139,Vihaan Singh,Male,22,Kolkata,MBA,6.21,BITS Pilani,Unplaced,0,Unplaced
+10140,Ishaan Chopra,Male,25,Kolkata,B.Sc,7.26,NIT Trichy,Unplaced,19.84,Placed
+10141,Aarav Reddy,Female,22,Jaipur,M.Sc,6.86,IIT Bombay,Unplaced,0,Unplaced
+10142,Aarav Patel,Female,26,Mumbai,M.Sc,7.05,Manipal University,Amazon,22.8,Placed
+10143,Aryan Gupta,Female,27,Jaipur,M.Sc,9.31,Anna University,TCS,30.81,Placed
+10144,Mira Mehta,Male,20,Ahmedabad,M.Tech,7.64,BITS Pilani,IBM,27.12,Placed
+10145,Zoya Kumar,Female,26,Chennai,MBA,8.41,IIT Bombay,Unplaced,0,Unplaced
+10146,Anika Mehta,Male,24,Kolkata,B.Tech,8.35,IIT Bombay,Infosys,5.82,Placed
+10147,Vihaan Kumar,Male,20,Delhi,B.Sc,9.49,IIT Bombay,Unplaced,0,Unplaced
+10148,Zoya Patel,Male,27,Hyderabad,B.A,7.11,NIT Trichy,Capgemini,30.15,Placed
+10149,Riya Reddy,Female,25,Delhi,B.A,8.44,Manipal University,Unplaced,0,Unplaced
+10150,Saanvi Das,Male,18,Jaipur,M.Tech,6.33,IIT Bombay,Unplaced,0,Unplaced
+10151,Zoya Das,Female,24,Mumbai,M.Sc,8.53,IIT Bombay,Unplaced,0,Unplaced
+10152,Anika Patel,Female,24,Pune,M.Sc,6.72,NIT Trichy,Microsoft,18.05,Placed
+10153,Anika Kumar,Male,25,Jaipur,MBA,9.34,BITS Pilani,Unplaced,0,Unplaced
+10154,Kabir Mehta,Female,21,Pune,PhD,6.82,IIT Delhi,IBM,27.14,Placed
+10155,Mira Nair,Female,19,Kolkata,PhD,6.54,Anna University,Unplaced,0,Unplaced
+10156,Kabir Das,Male,27,Jaipur,B.Tech,6.92,JNU,Unplaced,5.61,Placed
+10157,Ishaan Reddy,Male,23,Pune,PhD,7.65,IIT Bombay,Capgemini,31.85,Placed
+10158,Ishaan Gupta,Male,24,Kolkata,PhD,9.64,IIT Bombay,Unplaced,0,Unplaced
+10159,Anika Nair,Female,27,Mumbai,PhD,6.95,IIT Delhi,Wipro,23.03,Placed
+10160,Ishaan Sharma,Male,19,Bangalore,B.Com,7.4,Anna University,Unplaced,0,Unplaced
+10161,Anika Gupta,Female,27,Pune,B.Com,7.68,IIT Bombay,Unplaced,0,Unplaced
+10162,Zoya Sharma,Female,23,Ahmedabad,PhD,9.88,VIT,Unplaced,0,Unplaced
+10163,Zoya Chopra,Male,22,Jaipur,PhD,9.01,IISc Bangalore,Amazon,8.07,Placed
+10164,Aarav Gupta,Male,27,Kolkata,B.A,6.89,IIT Delhi,Unplaced,0,Unplaced
+10165,Riya Kumar,Female,20,Pune,B.Com,8.97,Anna University,Google,11.87,Placed
+10166,Zoya Kumar,Female,22,Hyderabad,B.Tech,8.72,IISc Bangalore,Unplaced,0,Unplaced
+10167,Vihaan Singh,Female,25,Ahmedabad,PhD,7.45,IIT Delhi,Microsoft,14.75,Placed
+10168,Mira Reddy,Male,21,Bangalore,PhD,7.08,IIT Bombay,Unplaced,0,Unplaced
+10169,Ishaan Chopra,Female,23,Lucknow,B.A,8.16,Anna University,Unplaced,0,Unplaced
+10170,Riya Kumar,Male,19,Chennai,M.Tech,7.13,IIT Bombay,Wipro,34.87,Placed
+10171,Riya Chopra,Male,19,Mumbai,MBA,7.01,Anna University,Google,10.16,Placed
+10172,Riya Mehta,Female,22,Chennai,M.Sc,8.25,JNU,Unplaced,0,Unplaced
+10173,Zoya Gupta,Male,25,Chennai,MBA,8.1,VIT,Unplaced,0,Unplaced
+10174,Zoya Gupta,Female,19,Ahmedabad,M.Tech,7.69,Manipal University,Unplaced,0,Unplaced
+10175,Mira Chopra,Female,26,Kolkata,MBA,8.38,Manipal University,Unplaced,0,Unplaced
+10176,Aryan Nair,Female,25,Chennai,M.Sc,6.68,IIT Bombay,Infosys,7.43,Placed
+10177,Mira Singh,Male,26,Jaipur,B.A,9,Anna University,Unplaced,0,Unplaced
+10178,Anika Singh,Female,22,Delhi,PhD,9.96,JNU,Unplaced,0,Unplaced
+10179,Saanvi Mehta,Male,25,Delhi,B.Tech,6.27,JNU,Capgemini,26.93,Placed
+10180,Saanvi Patel,Male,21,Mumbai,M.Tech,9.53,Manipal University,Unplaced,0,Unplaced
+10181,Riya Singh,Female,25,Mumbai,B.Tech,7.04,VIT,Unplaced,0,Unplaced
+10182,Kabir Kumar,Female,21,Ahmedabad,M.Tech,8.35,IISc Bangalore,TCS,22.55,Placed
+10183,Aryan Kumar,Female,21,Lucknow,PhD,6.21,NIT Trichy,Google,27.63,Placed
+10184,Anika Gupta,Female,26,Jaipur,M.Tech,7.89,IIT Delhi,Unplaced,0,Unplaced
+10185,Vihaan Nair,Male,18,Pune,B.Sc,7.11,VIT,Deloitte,34.72,Placed
+10186,Mira Patel,Female,24,Ahmedabad,B.A,6.81,DU,Unplaced,0,Unplaced
+10187,Saanvi Patel,Male,26,Ahmedabad,B.Sc,6.86,IIT Delhi,Amazon,8.08,Placed
+10188,Vihaan Reddy,Male,24,Mumbai,B.Sc,6.14,VIT,Unplaced,0,Unplaced
+10189,Saanvi Mehta,Female,23,Mumbai,B.Sc,8.37,BITS Pilani,Unplaced,0,Unplaced
+10190,Riya Singh,Female,21,Ahmedabad,B.Tech,8.89,IISc Bangalore,Unplaced,0,Unplaced
+10191,Saanvi Reddy,Female,22,Lucknow,B.A,8.99,JNU,IBM,13.82,Placed
+10192,Aarav Kumar,Male,20,Ahmedabad,B.Sc,9.68,IIT Bombay,Unplaced,0,Unplaced
+10193,Vihaan Kumar,Female,27,Mumbai,MBA,6.89,IISc Bangalore,Accenture,7.79,Placed
+10194,Zoya Reddy,Male,26,Lucknow,B.Com,9.37,IISc Bangalore,Infosys,20.75,Placed
+10195,Aryan Reddy,Male,21,Ahmedabad,B.Sc,9.12,IISc Bangalore,Infosys,28.4,Placed
+10196,Ishaan Kumar,Female,18,Ahmedabad,B.Com,6.63,DU,Unplaced,0,Unplaced
+10197,Kabir Reddy,Female,24,Ahmedabad,PhD,9.22,IIT Bombay,Google,23.89,Placed
+10198,Mira Das,Female,19,Kolkata,B.Tech,8,NIT Trichy,Unplaced,0,Unplaced
+10199,Kabir Singh,Male,22,Pune,B.Sc,7.66,NIT Trichy,Unplaced,0,Unplaced
+10200,Vihaan Patel,Male,23,Pune,B.Tech,7.3,Anna University,Infosys,22.52,Placed
+10201,Saanvi Das,Male,19,Bangalore,M.Tech,8.94,Manipal University,Unplaced,0,Unplaced
+10202,Aarav Kumar,Male,26,Bangalore,M.Tech,8.55,JNU,Unplaced,0,Unplaced
+10203,Riya Singh,Male,27,Hyderabad,B.Sc,9.77,JNU,Unplaced,0,Unplaced
+10204,Aryan Sharma,Male,27,Lucknow,B.Com,6.85,Anna University,Unplaced,0,Unplaced
+10205,Ishaan Patel,Male,19,Ahmedabad,B.Tech,8.76,BITS Pilani,Unplaced,9.38,Placed
+10206,Kabir Singh,Female,21,Chennai,B.A,6.17,Anna University,Unplaced,0,Unplaced
+10207,Vihaan Kumar,Male,23,Jaipur,B.A,9.68,Anna University,Unplaced,0,Unplaced
+10208,Riya Singh,Female,20,Delhi,B.Tech,8.19,Manipal University,Unplaced,0,Unplaced
+10209,Mira Mehta,Female,23,Kolkata,M.Tech,8.01,JNU,Unplaced,0,Unplaced
+10210,Aarav Chopra,Male,21,Ahmedabad,B.Sc,7.34,BITS Pilani,Unplaced,0,Unplaced
+10211,Aryan Reddy,Female,26,Ahmedabad,B.Tech,6.7,VIT,Microsoft,22.02,Placed
+10212,Vihaan Singh,Male,24,Mumbai,B.Sc,6.41,VIT,Unplaced,0,Unplaced
+10213,Vihaan Gupta,Male,19,Kolkata,M.Tech,6.63,Manipal University,Unplaced,0,Unplaced
+10214,Riya Nair,Male,21,Ahmedabad,MBA,8.07,IISc Bangalore,Wipro,17.61,Placed
+10215,Anika Mehta,Male,22,Kolkata,B.Sc,7.18,VIT,Amazon,22.37,Placed
+10216,Riya Chopra,Male,24,Bangalore,B.Com,9.05,IIT Bombay,Deloitte,19.01,Placed
+10217,Aryan Patel,Male,18,Bangalore,M.Sc,7.47,IIT Delhi,Unplaced,24.12,Placed
+10218,Vihaan Sharma,Female,26,Hyderabad,B.Tech,6.37,IISc Bangalore,Unplaced,0,Unplaced
+10219,Vihaan Sharma,Male,27,Ahmedabad,PhD,9.88,IIT Delhi,Unplaced,28.57,Placed
+10220,Mira Mehta,Male,27,Kolkata,B.Com,7.75,BITS Pilani,Unplaced,0,Unplaced
+10221,Riya Singh,Male,20,Ahmedabad,B.A,8.06,IIT Bombay,Unplaced,0,Unplaced
+10222,Kabir Nair,Female,20,Kolkata,M.Tech,8.21,DU,Unplaced,0,Unplaced
+10223,Zoya Chopra,Female,23,Hyderabad,MBA,7.46,JNU,Capgemini,22.27,Placed
+10224,Aarav Das,Male,23,Mumbai,MBA,8.17,BITS Pilani,TCS,27.4,Placed
+10225,Mira Singh,Female,26,Jaipur,MBA,8.06,IIT Delhi,Unplaced,0,Unplaced
+10226,Aryan Reddy,Male,26,Chennai,B.Com,8.15,NIT Trichy,Amazon,25.16,Placed
+10227,Vihaan Mehta,Male,18,Bangalore,M.Sc,7.54,IIT Bombay,Unplaced,0,Unplaced
+10228,Saanvi Reddy,Female,19,Ahmedabad,B.Sc,8.29,IIT Bombay,Amazon,17.85,Placed
+10229,Mira Reddy,Male,26,Bangalore,M.Sc,7.55,JNU,Infosys,31.33,Placed
+10230,Riya Kumar,Male,21,Bangalore,B.Com,8.52,IIT Delhi,Accenture,32.37,Placed
+10231,Vihaan Reddy,Female,18,Ahmedabad,M.Sc,8.72,IIT Bombay,Unplaced,0,Unplaced
+10232,Riya Das,Female,20,Ahmedabad,B.Sc,7.05,BITS Pilani,Infosys,29.91,Placed
+10233,Aryan Gupta,Female,27,Delhi,M.Sc,6.94,BITS Pilani,Google,33.42,Placed
+10234,Saanvi Patel,Female,25,Jaipur,M.Tech,6.43,JNU,Unplaced,0,Unplaced
+10235,Saanvi Sharma,Female,26,Mumbai,B.Tech,7.8,IIT Bombay,Unplaced,0,Unplaced
+10236,Aarav Mehta,Male,20,Chennai,B.A,8.38,JNU,Unplaced,30.58,Placed
+10237,Mira Reddy,Male,20,Hyderabad,PhD,7.12,IIT Delhi,Amazon,27.05,Placed
+10238,Zoya Nair,Male,25,Hyderabad,B.Com,8.22,NIT Trichy,Unplaced,0,Unplaced
+10239,Vihaan Singh,Male,27,Hyderabad,MBA,7.64,JNU,Amazon,11.86,Placed
+10240,Saanvi Reddy,Male,23,Ahmedabad,M.Sc,8.63,IISc Bangalore,Google,24.61,Placed
+10241,Mira Reddy,Female,20,Mumbai,M.Sc,9.91,VIT,Unplaced,0,Unplaced
+10242,Mira Kumar,Male,25,Kolkata,B.Com,8.34,NIT Trichy,Infosys,18.79,Placed
+10243,Ishaan Nair,Female,22,Delhi,MBA,8.42,VIT,Unplaced,0,Unplaced
+10244,Aryan Patel,Female,27,Lucknow,M.Sc,7.01,IISc Bangalore,TCS,12.39,Placed
+10245,Vihaan Kumar,Male,26,Ahmedabad,B.Com,9.29,VIT,Capgemini,25.44,Placed
+10246,Kabir Reddy,Female,27,Delhi,B.Sc,8.01,Manipal University,Unplaced,0,Unplaced
+10247,Riya Sharma,Male,25,Jaipur,B.Com,9.7,VIT,Accenture,13.63,Placed
+10248,Mira Mehta,Male,24,Bangalore,B.Tech,8.38,Manipal University,Amazon,15.66,Placed
+10249,Kabir Nair,Female,19,Kolkata,B.Sc,8.8,DU,IBM,19.71,Placed
+10250,Aarav Das,Female,21,Delhi,MBA,7.97,IISc Bangalore,Unplaced,0,Unplaced
+10251,Saanvi Nair,Female,24,Kolkata,B.A,8.35,BITS Pilani,Unplaced,0,Unplaced
+10252,Mira Nair,Female,21,Jaipur,M.Sc,6.15,BITS Pilani,Capgemini,26.48,Placed
+10253,Kabir Chopra,Female,24,Kolkata,B.Tech,7.45,NIT Trichy,Amazon,34.64,Placed
+10254,Riya Mehta,Male,25,Lucknow,M.Sc,9.81,DU,Unplaced,0,Unplaced
+10255,Saanvi Sharma,Male,23,Hyderabad,M.Tech,8.33,VIT,TCS,21,Placed
+10256,Aryan Sharma,Female,20,Pune,PhD,8.27,IIT Delhi,Capgemini,28.13,Placed
+10257,Zoya Nair,Male,19,Delhi,PhD,8.76,IIT Delhi,Unplaced,0,Unplaced
+10258,Ishaan Reddy,Male,21,Chennai,B.A,6.2,Anna University,Unplaced,0,Unplaced
+10259,Riya Reddy,Female,26,Kolkata,B.Sc,8.24,IIT Bombay,Unplaced,0,Unplaced
+10260,Aarav Nair,Male,18,Delhi,PhD,8.06,IISc Bangalore,Unplaced,0,Unplaced
+10261,Mira Patel,Male,21,Pune,B.Tech,7.28,IISc Bangalore,Accenture,28.34,Placed
+10262,Kabir Chopra,Male,27,Bangalore,B.Tech,9.54,DU,Amazon,27.92,Placed
+10263,Anika Reddy,Male,18,Chennai,B.A,8.56,Anna University,Unplaced,0,Unplaced
+10264,Anika Chopra,Male,26,Delhi,MBA,7.57,Manipal University,Unplaced,0,Unplaced
+10265,Mira Kumar,Male,20,Delhi,B.Tech,8.17,IIT Delhi,Unplaced,0,Unplaced
+10266,Zoya Mehta,Female,26,Hyderabad,MBA,8.4,DU,Unplaced,0,Unplaced
+10267,Aarav Gupta,Female,26,Delhi,MBA,8.63,IIT Delhi,TCS,31.55,Placed
+10268,Saanvi Kumar,Female,27,Hyderabad,MBA,7.98,Manipal University,Unplaced,0,Unplaced
+10269,Ishaan Nair,Male,24,Kolkata,B.Com,8.89,NIT Trichy,Unplaced,0,Unplaced
+10270,Mira Singh,Female,27,Mumbai,B.Com,6.41,DU,Unplaced,0,Unplaced
+10271,Zoya Reddy,Female,20,Chennai,B.Tech,6.94,JNU,Unplaced,0,Unplaced
+10272,Vihaan Sharma,Male,27,Kolkata,B.Com,6.32,DU,Unplaced,0,Unplaced
+10273,Anika Chopra,Female,18,Mumbai,M.Sc,9.79,VIT,Wipro,15.67,Placed
+10274,Vihaan Gupta,Male,22,Bangalore,M.Tech,6.18,NIT Trichy,Google,15,Placed
+10275,Aarav Sharma,Female,26,Hyderabad,M.Tech,6.49,IIT Bombay,Deloitte,23.07,Placed
+10276,Aryan Sharma,Female,18,Chennai,B.Tech,7.38,IIT Delhi,Unplaced,0,Unplaced
+10277,Mira Singh,Female,21,Ahmedabad,B.Com,6.24,Manipal University,Google,10.63,Placed
+10278,Ishaan Mehta,Male,24,Delhi,B.Sc,8.69,BITS Pilani,Unplaced,0,Unplaced
+10279,Ishaan Sharma,Male,21,Lucknow,M.Tech,8.28,IIT Delhi,Unplaced,7.96,Placed
+10280,Riya Gupta,Male,26,Kolkata,B.Com,7.73,VIT,Google,7.39,Placed
+10281,Ishaan Reddy,Female,19,Pune,M.Sc,8.82,DU,Unplaced,0,Unplaced
+10282,Ishaan Das,Female,26,Mumbai,PhD,9.48,IISc Bangalore,Unplaced,0,Unplaced
+10283,Mira Patel,Male,22,Mumbai,M.Sc,9.72,IIT Bombay,Unplaced,0,Unplaced
+10284,Riya Patel,Male,21,Delhi,B.Com,9.69,DU,Unplaced,0,Unplaced
+10285,Ishaan Sharma,Female,20,Jaipur,M.Tech,7.79,IIT Delhi,Unplaced,0,Unplaced
+10286,Ishaan Gupta,Male,19,Delhi,B.Sc,8.98,BITS Pilani,Microsoft,7.61,Placed
+10287,Ishaan Reddy,Male,21,Kolkata,B.Tech,8.71,Anna University,Infosys,30.11,Placed
+10288,Anika Patel,Male,25,Hyderabad,PhD,6.94,NIT Trichy,Capgemini,24.33,Placed
+10289,Mira Das,Male,27,Hyderabad,PhD,6.47,DU,Microsoft,23.2,Placed
+10290,Aarav Nair,Female,27,Bangalore,M.Tech,9.14,IISc Bangalore,IBM,24.04,Placed
+10291,Mira Nair,Female,19,Hyderabad,PhD,9.42,IIT Delhi,TCS,22.18,Placed
+10292,Zoya Gupta,Female,23,Hyderabad,B.Com,9.04,Anna University,Unplaced,0,Unplaced
+10293,Mira Kumar,Male,27,Hyderabad,B.Sc,8.82,VIT,Unplaced,0,Unplaced
+10294,Kabir Nair,Female,19,Pune,M.Sc,6.24,IIT Bombay,Unplaced,0,Unplaced
+10295,Mira Kumar,Male,21,Chennai,B.Tech,9.44,IIT Bombay,Accenture,24.09,Placed
+10296,Aarav Gupta,Male,20,Ahmedabad,MBA,8.73,IISc Bangalore,Unplaced,0,Unplaced
+10297,Vihaan Reddy,Male,21,Chennai,B.Sc,8.7,Anna University,Unplaced,0,Unplaced
+10298,Riya Gupta,Male,23,Mumbai,M.Sc,7.36,DU,TCS,20.62,Placed
+10299,Aryan Patel,Female,24,Jaipur,B.Tech,8.77,IIT Delhi,Google,16.9,Placed
+10300,Aarav Kumar,Male,18,Jaipur,MBA,8.2,VIT,Unplaced,0,Unplaced
+10301,Riya Kumar,Female,21,Delhi,M.Tech,7.79,VIT,Unplaced,0,Unplaced
+10302,Riya Nair,Female,21,Hyderabad,B.Sc,9.97,JNU,Unplaced,0,Unplaced
+10303,Mira Sharma,Female,27,Lucknow,M.Tech,8.37,Anna University,Unplaced,0,Unplaced
+10304,Mira Das,Female,24,Chennai,B.Com,6.78,NIT Trichy,Wipro,24.07,Placed
+10305,Aarav Patel,Male,24,Delhi,PhD,7.52,IIT Delhi,Unplaced,0,Unplaced
+10306,Ishaan Kumar,Female,18,Ahmedabad,B.Tech,9.84,IISc Bangalore,Microsoft,18.33,Placed
+10307,Mira Kumar,Female,21,Mumbai,B.Sc,8.62,VIT,Unplaced,32.59,Placed
+10308,Ishaan Nair,Male,18,Hyderabad,PhD,8.12,Anna University,Accenture,33.83,Placed
+10309,Kabir Mehta,Male,22,Mumbai,M.Tech,9.49,Anna University,Unplaced,0,Unplaced
+10310,Aryan Reddy,Male,21,Kolkata,PhD,8.53,IIT Bombay,Unplaced,21.99,Placed
+10311,Riya Das,Female,18,Delhi,PhD,6.27,DU,TCS,18.82,Placed
+10312,Zoya Sharma,Male,23,Ahmedabad,B.A,8.8,NIT Trichy,Unplaced,0,Unplaced
+10313,Vihaan Mehta,Male,24,Delhi,PhD,8.86,Anna University,Unplaced,0,Unplaced
+10314,Zoya Reddy,Male,27,Hyderabad,M.Sc,6.09,BITS Pilani,Unplaced,0,Unplaced
+10315,Vihaan Patel,Female,20,Chennai,M.Sc,7.63,IISc Bangalore,Wipro,13.43,Placed
+10316,Anika Nair,Male,24,Delhi,MBA,9.42,NIT Trichy,Microsoft,6.71,Placed
+10317,Vihaan Chopra,Male,22,Bangalore,M.Tech,6.98,NIT Trichy,IBM,14.03,Placed
+10318,Kabir Kumar,Male,27,Delhi,PhD,6.65,VIT,Unplaced,0,Unplaced
+10319,Vihaan Gupta,Female,19,Kolkata,B.Tech,9.88,DU,Deloitte,27.94,Placed
+10320,Vihaan Kumar,Female,21,Ahmedabad,MBA,6.33,IISc Bangalore,Unplaced,0,Unplaced
+10321,Anika Nair,Male,25,Hyderabad,B.A,7.6,Anna University,Unplaced,0,Unplaced
+10322,Saanvi Mehta,Female,23,Bangalore,PhD,6.7,Anna University,Unplaced,0,Unplaced
+10323,Ishaan Gupta,Female,19,Ahmedabad,B.Sc,7.13,DU,Microsoft,11.43,Placed
+10324,Kabir Sharma,Male,21,Mumbai,MBA,6.33,IIT Delhi,Unplaced,0,Unplaced
+10325,Ishaan Patel,Male,24,Ahmedabad,B.Sc,7.64,DU,Google,18.17,Placed
+10326,Kabir Gupta,Female,27,Bangalore,M.Tech,6.78,IIT Delhi,Unplaced,0,Unplaced
+10327,Vihaan Mehta,Male,18,Chennai,B.Tech,9.63,DU,TCS,24.09,Placed
+10328,Kabir Sharma,Male,24,Delhi,PhD,7.92,Manipal University,Unplaced,0,Unplaced
+10329,Zoya Chopra,Female,26,Chennai,M.Tech,6.37,BITS Pilani,Capgemini,15.79,Placed
+10330,Ishaan Gupta,Female,25,Kolkata,B.Com,7.04,IIT Delhi,Amazon,4.64,Placed
+10331,Ishaan Patel,Male,22,Jaipur,B.Tech,9.22,NIT Trichy,Unplaced,0,Unplaced
+10332,Mira Mehta,Female,24,Ahmedabad,B.Com,6.89,JNU,Unplaced,10.27,Placed
+10333,Kabir Gupta,Female,18,Hyderabad,B.A,7.61,IIT Bombay,Unplaced,0,Unplaced
+10334,Anika Singh,Male,21,Bangalore,M.Sc,8.33,IISc Bangalore,Unplaced,0,Unplaced
+10335,Kabir Mehta,Male,18,Bangalore,MBA,9.46,IISc Bangalore,Unplaced,0,Unplaced
+10336,Aarav Singh,Female,24,Pune,B.Tech,6.45,IIT Delhi,Unplaced,0,Unplaced
+10337,Anika Kumar,Male,22,Jaipur,B.Tech,7.6,DU,Amazon,31.77,Placed
+10338,Kabir Nair,Female,25,Kolkata,B.Com,9.91,DU,Unplaced,8.83,Placed
+10339,Aarav Patel,Female,21,Mumbai,PhD,7.78,IISc Bangalore,Unplaced,0,Unplaced
+10340,Aarav Das,Male,22,Delhi,B.A,7.08,BITS Pilani,Unplaced,0,Unplaced
+10341,Saanvi Mehta,Female,26,Pune,M.Sc,9.56,IIT Bombay,IBM,29.24,Placed
+10342,Ishaan Gupta,Female,20,Chennai,B.Com,6.69,VIT,Unplaced,0,Unplaced
+10343,Kabir Sharma,Male,19,Ahmedabad,B.A,8.21,IIT Delhi,Unplaced,0,Unplaced
+10344,Zoya Sharma,Female,26,Jaipur,PhD,9.44,IISc Bangalore,Capgemini,12.39,Placed
+10345,Anika Nair,Male,21,Hyderabad,B.A,6.05,IISc Bangalore,Infosys,34.1,Placed
+10346,Kabir Das,Female,19,Chennai,M.Sc,7.8,IIT Bombay,Amazon,16.15,Placed
+10347,Saanvi Patel,Male,24,Bangalore,B.Com,8.54,NIT Trichy,Unplaced,0,Unplaced
+10348,Anika Singh,Male,24,Ahmedabad,MBA,8.33,NIT Trichy,TCS,20.07,Placed
+10349,Riya Patel,Male,23,Pune,B.Com,6.57,NIT Trichy,Unplaced,0,Unplaced
+10350,Riya Gupta,Male,23,Ahmedabad,B.Com,6.27,IIT Delhi,Unplaced,0,Unplaced
+10351,Zoya Reddy,Female,22,Hyderabad,B.Com,7.72,VIT,Capgemini,6.92,Placed
+10352,Mira Patel,Male,19,Bangalore,B.A,9.1,NIT Trichy,Microsoft,20.29,Placed
+10353,Kabir Sharma,Female,24,Jaipur,B.Com,6.66,Anna University,Unplaced,0,Unplaced
+10354,Aarav Das,Female,25,Kolkata,M.Tech,8.99,JNU,TCS,29.71,Placed
+10355,Anika Patel,Female,19,Delhi,PhD,8.74,IISc Bangalore,Amazon,14.98,Placed
+10356,Zoya Reddy,Female,20,Chennai,PhD,6.59,IISc Bangalore,Unplaced,0,Unplaced
+10357,Vihaan Sharma,Female,18,Ahmedabad,M.Tech,6.98,IISc Bangalore,Unplaced,21.82,Placed
+10358,Anika Singh,Male,27,Pune,B.Com,9.05,VIT,Unplaced,0,Unplaced
+10359,Zoya Reddy,Male,25,Bangalore,B.A,8.93,IISc Bangalore,Unplaced,0,Unplaced
+10360,Anika Singh,Male,18,Pune,M.Sc,6.75,Manipal University,IBM,22.08,Placed
+10361,Aryan Chopra,Male,23,Mumbai,B.Sc,7.74,Manipal University,Google,22.85,Placed
+10362,Aryan Reddy,Female,27,Lucknow,M.Tech,6.56,VIT,Unplaced,0,Unplaced
+10363,Vihaan Reddy,Male,23,Mumbai,B.A,7.31,DU,Unplaced,0,Unplaced
+10364,Vihaan Kumar,Female,21,Ahmedabad,PhD,8.5,IIT Delhi,Google,7.05,Placed
+10365,Zoya Chopra,Male,25,Bangalore,B.Sc,7.59,IIT Bombay,Unplaced,0,Unplaced
+10366,Ishaan Reddy,Female,27,Jaipur,B.Com,8.04,IISc Bangalore,Unplaced,0,Unplaced
+10367,Zoya Nair,Male,21,Lucknow,B.Com,6.96,IISc Bangalore,Unplaced,0,Unplaced
+10368,Aryan Das,Female,26,Mumbai,B.Com,7.31,VIT,Unplaced,0,Unplaced
+10369,Aryan Chopra,Female,21,Jaipur,PhD,8.15,DU,TCS,24.33,Placed
+10370,Anika Patel,Male,20,Delhi,M.Sc,8.85,VIT,Unplaced,0,Unplaced
+10371,Ishaan Nair,Female,25,Ahmedabad,M.Tech,6.29,IIT Delhi,Wipro,19.95,Placed
+10372,Aryan Gupta,Male,20,Hyderabad,PhD,8.45,IIT Bombay,Unplaced,0,Unplaced
+10373,Saanvi Gupta,Male,27,Mumbai,B.A,7.96,IIT Bombay,Unplaced,0,Unplaced
+10374,Ishaan Kumar,Female,27,Ahmedabad,PhD,6.47,IISc Bangalore,Accenture,3.42,Placed
+10375,Kabir Kumar,Female,25,Mumbai,PhD,6.87,VIT,Unplaced,0,Unplaced
+10376,Riya Nair,Male,20,Jaipur,B.Sc,6.86,IISc Bangalore,Unplaced,0,Unplaced
+10377,Aarav Kumar,Male,25,Chennai,MBA,9.81,IIT Bombay,Accenture,14.74,Placed
+10378,Riya Patel,Female,23,Chennai,B.A,6.84,Anna University,Capgemini,23.18,Placed
+10379,Ishaan Sharma,Male,23,Chennai,M.Tech,9.35,NIT Trichy,Capgemini,14.23,Placed
+10380,Aarav Nair,Female,18,Jaipur,B.Tech,8.29,IISc Bangalore,IBM,30.25,Placed
+10381,Anika Sharma,Female,22,Chennai,M.Tech,6.6,VIT,Deloitte,21.16,Placed
+10382,Aryan Reddy,Male,18,Hyderabad,M.Tech,8.31,IISc Bangalore,Unplaced,0,Unplaced
+10383,Anika Kumar,Male,25,Delhi,B.A,7.78,Anna University,TCS,3.46,Placed
+10384,Ishaan Mehta,Female,19,Kolkata,B.Tech,8.93,JNU,Accenture,8.03,Placed
+10385,Kabir Gupta,Female,25,Kolkata,B.Tech,6.28,IISc Bangalore,Unplaced,0,Unplaced
+10386,Saanvi Patel,Male,22,Mumbai,M.Sc,6.29,IIT Bombay,Unplaced,0,Unplaced
+10387,Aryan Gupta,Male,21,Lucknow,B.Tech,7.55,DU,Unplaced,0,Unplaced
+10388,Anika Chopra,Male,23,Mumbai,B.Tech,9.27,BITS Pilani,Google,5.2,Placed
+10389,Aryan Gupta,Male,27,Kolkata,B.Sc,6.19,DU,Unplaced,0,Unplaced
+10390,Aryan Nair,Male,25,Jaipur,MBA,7.09,IISc Bangalore,Capgemini,29.18,Placed
+10391,Anika Das,Male,20,Kolkata,MBA,8.04,Manipal University,Unplaced,0,Unplaced
+10392,Riya Singh,Female,20,Bangalore,B.Sc,7.96,IIT Bombay,TCS,21.03,Placed
+10393,Aarav Sharma,Male,21,Ahmedabad,B.Tech,6.87,IIT Bombay,Infosys,19.11,Placed
+10394,Aryan Gupta,Female,19,Hyderabad,M.Tech,8.1,IISc Bangalore,Unplaced,0,Unplaced
+10395,Saanvi Chopra,Female,26,Delhi,PhD,7.96,NIT Trichy,Unplaced,0,Unplaced
+10396,Riya Patel,Male,21,Mumbai,B.Com,6.55,NIT Trichy,Unplaced,0,Unplaced
+10397,Aarav Nair,Female,20,Bangalore,B.Sc,6.76,Manipal University,Infosys,28.17,Placed
+10398,Mira Nair,Male,26,Delhi,B.Tech,6.72,DU,Capgemini,21.58,Placed
+10399,Anika Patel,Female,24,Chennai,PhD,6.02,Anna University,Unplaced,0,Unplaced
+10400,Aarav Sharma,Male,22,Pune,MBA,6.65,BITS Pilani,Wipro,26.47,Placed
+10401,Anika Mehta,Female,23,Delhi,B.Com,6.36,IIT Delhi,Google,5.74,Placed
+10402,Ishaan Reddy,Female,25,Mumbai,MBA,7.05,IIT Bombay,Unplaced,0,Unplaced
+10403,Kabir Nair,Female,19,Delhi,B.A,7.26,VIT,Unplaced,0,Unplaced
+10404,Riya Kumar,Male,25,Jaipur,PhD,7.31,IIT Delhi,TCS,23.13,Placed
+10405,Vihaan Kumar,Female,22,Jaipur,MBA,6.01,VIT,Unplaced,0,Unplaced
+10406,Vihaan Gupta,Male,21,Hyderabad,B.A,7.02,DU,Unplaced,0,Unplaced
+10407,Riya Reddy,Female,23,Mumbai,B.Tech,9.71,BITS Pilani,Unplaced,14.7,Placed
+10408,Saanvi Singh,Male,27,Chennai,M.Tech,7.4,VIT,Unplaced,0,Unplaced
+10409,Mira Kumar,Female,19,Jaipur,MBA,6.11,Manipal University,Infosys,14.37,Placed
+10410,Zoya Singh,Female,20,Mumbai,B.Com,6.15,VIT,TCS,26.38,Placed
+10411,Vihaan Chopra,Male,22,Ahmedabad,B.Sc,7.51,Manipal University,Unplaced,31.56,Placed
+10412,Kabir Gupta,Male,18,Kolkata,M.Sc,8.76,Manipal University,Unplaced,0,Unplaced
+10413,Ishaan Gupta,Female,21,Mumbai,PhD,7.1,DU,Accenture,30.06,Placed
+10414,Anika Reddy,Female,22,Kolkata,M.Sc,7.73,JNU,Unplaced,0,Unplaced
+10415,Vihaan Reddy,Male,25,Lucknow,B.Com,9.31,IISc Bangalore,Unplaced,0,Unplaced
+10416,Zoya Chopra,Male,23,Delhi,PhD,6.24,NIT Trichy,Wipro,20.97,Placed
+10417,Ishaan Chopra,Male,25,Pune,B.Tech,7.92,VIT,IBM,21.93,Placed
+10418,Mira Gupta,Female,26,Hyderabad,PhD,7.25,IIT Delhi,Unplaced,0,Unplaced
+10419,Anika Kumar,Male,21,Mumbai,B.A,8.34,NIT Trichy,Wipro,7.32,Placed
+10420,Mira Nair,Male,19,Bangalore,B.Sc,7.32,JNU,Deloitte,11.23,Placed
+10421,Riya Reddy,Female,22,Kolkata,MBA,6.54,VIT,Microsoft,7.47,Placed
+10422,Riya Mehta,Male,20,Delhi,B.Com,9.19,Anna University,Unplaced,0,Unplaced
+10423,Aarav Kumar,Female,18,Ahmedabad,B.Tech,8.95,IIT Bombay,Deloitte,25.55,Placed
+10424,Kabir Kumar,Male,21,Ahmedabad,M.Sc,7.87,BITS Pilani,Unplaced,0,Unplaced
+10425,Aryan Nair,Male,25,Pune,B.A,9.65,Manipal University,Deloitte,22.78,Placed
+10426,Kabir Das,Female,19,Hyderabad,M.Tech,6.87,BITS Pilani,Infosys,23.04,Placed
+10427,Riya Singh,Female,18,Pune,MBA,9.09,BITS Pilani,Unplaced,0,Unplaced
+10428,Mira Chopra,Female,18,Hyderabad,B.Sc,9.27,IISc Bangalore,Unplaced,10.74,Placed
+10429,Saanvi Reddy,Female,27,Delhi,B.Tech,10,VIT,TCS,9.42,Placed
+10430,Aryan Nair,Female,22,Mumbai,B.Tech,9.3,IIT Delhi,Microsoft,32.82,Placed
+10431,Mira Das,Male,19,Hyderabad,M.Sc,7.21,IIT Bombay,Unplaced,0,Unplaced
+10432,Ishaan Das,Female,27,Chennai,M.Sc,6.72,BITS Pilani,Capgemini,20.82,Placed
+10433,Saanvi Reddy,Female,20,Mumbai,MBA,8.91,Manipal University,Unplaced,0,Unplaced
+10434,Aryan Patel,Female,23,Chennai,M.Tech,9.51,IIT Delhi,TCS,28.62,Placed
+10435,Mira Reddy,Male,21,Pune,B.Sc,9.4,JNU,Unplaced,27.97,Placed
+10436,Kabir Das,Female,22,Kolkata,B.A,7.18,Manipal University,Unplaced,0,Unplaced
+10437,Ishaan Gupta,Female,20,Ahmedabad,B.A,8.8,IIT Delhi,Microsoft,25.87,Placed
+10438,Aarav Patel,Male,25,Hyderabad,M.Sc,6.98,IISc Bangalore,Capgemini,30.01,Placed
+10439,Riya Kumar,Female,22,Ahmedabad,B.Tech,7.82,VIT,Unplaced,0,Unplaced
+10440,Kabir Nair,Male,20,Kolkata,B.Tech,7.02,Manipal University,Unplaced,0,Unplaced
+10441,Kabir Nair,Female,20,Pune,B.Com,9.47,IIT Delhi,Deloitte,13.52,Placed
+10442,Ishaan Das,Male,20,Kolkata,B.Sc,9.46,BITS Pilani,Unplaced,0,Unplaced
+10443,Aarav Das,Male,18,Lucknow,B.Tech,7.19,BITS Pilani,Unplaced,0,Unplaced
+10444,Saanvi Mehta,Female,24,Hyderabad,B.Sc,9.95,DU,Capgemini,7.22,Placed
+10445,Vihaan Nair,Female,24,Chennai,MBA,7.66,IIT Delhi,Unplaced,0,Unplaced
+10446,Aarav Sharma,Female,25,Pune,B.Sc,8.52,JNU,Accenture,28.93,Placed
+10447,Saanvi Patel,Female,22,Delhi,PhD,7.93,DU,Unplaced,0,Unplaced
+10448,Aryan Mehta,Female,21,Bangalore,PhD,8.71,DU,Unplaced,0,Unplaced
+10449,Mira Singh,Female,27,Mumbai,B.A,9.64,JNU,Accenture,23.12,Placed
+10450,Vihaan Gupta,Female,26,Kolkata,B.Tech,9.73,IIT Bombay,Capgemini,29.44,Placed
+10451,Zoya Patel,Female,25,Delhi,M.Tech,9,JNU,Unplaced,21.57,Placed
+10452,Mira Nair,Female,27,Bangalore,M.Sc,6.03,Manipal University,Accenture,26.19,Placed
+10453,Saanvi Reddy,Female,23,Delhi,M.Tech,8.58,DU,Unplaced,0,Unplaced
+10454,Aryan Das,Female,21,Ahmedabad,MBA,9.47,DU,Unplaced,0,Unplaced
+10455,Riya Chopra,Female,18,Bangalore,MBA,9.83,IIT Bombay,Microsoft,10.82,Placed
+10456,Anika Patel,Female,21,Ahmedabad,PhD,7.7,BITS Pilani,Unplaced,0,Unplaced
+10457,Riya Gupta,Male,19,Hyderabad,M.Sc,7.69,NIT Trichy,Unplaced,0,Unplaced
+10458,Ishaan Patel,Male,22,Lucknow,B.Com,7.65,BITS Pilani,Unplaced,0,Unplaced
+10459,Mira Kumar,Female,22,Hyderabad,B.Sc,8.9,IISc Bangalore,Unplaced,0,Unplaced
+10460,Aarav Mehta,Female,21,Lucknow,B.A,6.41,VIT,Accenture,18.1,Placed
+10461,Ishaan Singh,Female,26,Mumbai,B.Sc,6.76,JNU,TCS,34.07,Placed
+10462,Mira Reddy,Female,19,Bangalore,MBA,8.92,Manipal University,Unplaced,0,Unplaced
+10463,Kabir Nair,Female,19,Pune,B.Com,9.4,IISc Bangalore,Wipro,32.78,Placed
+10464,Saanvi Nair,Female,19,Jaipur,B.Com,7.55,VIT,Unplaced,0,Unplaced
+10465,Kabir Das,Female,22,Bangalore,MBA,8.62,IIT Bombay,Capgemini,9.85,Placed
+10466,Aryan Sharma,Female,24,Ahmedabad,B.Com,9.05,Manipal University,Unplaced,0,Unplaced
+10467,Zoya Sharma,Female,19,Lucknow,M.Sc,6.03,IIT Bombay,Unplaced,0,Unplaced
+10468,Mira Mehta,Female,20,Hyderabad,M.Tech,6.07,BITS Pilani,IBM,12.55,Placed
+10469,Ishaan Das,Male,18,Pune,MBA,8.92,NIT Trichy,Unplaced,0,Unplaced
+10470,Aarav Nair,Female,27,Hyderabad,MBA,6.14,IIT Delhi,Unplaced,0,Unplaced
+10471,Mira Nair,Male,18,Pune,M.Tech,6.78,VIT,Unplaced,0,Unplaced
+10472,Ishaan Mehta,Male,19,Pune,PhD,8.21,IIT Delhi,Unplaced,0,Unplaced
+10473,Aarav Mehta,Male,22,Bangalore,PhD,7.7,Anna University,Unplaced,0,Unplaced
+10474,Aarav Das,Female,20,Hyderabad,M.Tech,7.3,BITS Pilani,Unplaced,0,Unplaced
+10475,Anika Sharma,Female,23,Pune,B.Com,7.52,DU,Unplaced,0,Unplaced
+10476,Aryan Sharma,Female,19,Mumbai,PhD,7.15,Manipal University,Unplaced,0,Unplaced
+10477,Zoya Gupta,Female,21,Hyderabad,M.Sc,7.42,IISc Bangalore,Wipro,23.65,Placed
+10478,Riya Gupta,Female,26,Lucknow,B.Sc,8.97,Manipal University,Accenture,20,Placed
+10479,Vihaan Das,Male,21,Lucknow,PhD,6.25,Anna University,TCS,19.01,Placed
+10480,Riya Das,Female,23,Ahmedabad,M.Tech,7.54,DU,Amazon,26.75,Placed
+10481,Kabir Nair,Male,27,Lucknow,MBA,7.21,Manipal University,Microsoft,9.2,Placed
+10482,Saanvi Singh,Female,26,Mumbai,B.Tech,9.05,BITS Pilani,Wipro,27.17,Placed
+10483,Riya Nair,Male,27,Jaipur,B.Tech,8.94,Manipal University,Unplaced,0,Unplaced
+10484,Riya Sharma,Male,27,Mumbai,M.Sc,8.95,BITS Pilani,Google,5.61,Placed
+10485,Vihaan Chopra,Female,27,Bangalore,B.Sc,8.62,VIT,Amazon,17.69,Placed
+10486,Zoya Mehta,Male,21,Delhi,B.Sc,7.42,VIT,Unplaced,0,Unplaced
+10487,Riya Gupta,Male,21,Ahmedabad,M.Tech,7.67,IIT Delhi,Capgemini,27.28,Placed
+10488,Kabir Das,Female,26,Jaipur,PhD,9.13,DU,Unplaced,0,Unplaced
+10489,Riya Nair,Male,21,Hyderabad,MBA,8.53,BITS Pilani,Wipro,33.01,Placed
+10490,Vihaan Sharma,Male,23,Pune,MBA,6.39,NIT Trichy,Unplaced,0,Unplaced
+10491,Zoya Sharma,Female,20,Pune,MBA,6.7,IIT Bombay,Wipro,14.1,Placed
+10492,Aryan Sharma,Male,24,Chennai,B.A,7.42,JNU,Wipro,34.57,Placed
+10493,Aarav Gupta,Male,22,Hyderabad,B.Com,6.01,VIT,Capgemini,12.07,Placed
+10494,Mira Sharma,Female,27,Ahmedabad,MBA,9.79,IISc Bangalore,Unplaced,0,Unplaced
+10495,Saanvi Sharma,Female,19,Ahmedabad,B.Sc,9.64,DU,Unplaced,0,Unplaced
+10496,Riya Singh,Female,26,Chennai,PhD,6.26,Manipal University,Unplaced,0,Unplaced
+10497,Mira Nair,Male,20,Delhi,M.Sc,8.8,NIT Trichy,Capgemini,7.25,Placed
+10498,Kabir Kumar,Male,25,Pune,B.Sc,7.51,IISc Bangalore,Unplaced,0,Unplaced
+10499,Aarav Sharma,Male,26,Bangalore,MBA,7.86,IISc Bangalore,Unplaced,0,Unplaced
+10500,Mira Chopra,Female,19,Ahmedabad,MBA,7.47,VIT,Unplaced,0,Unplaced
+10501,Anika Sharma,Female,27,Hyderabad,PhD,9.51,IISc Bangalore,Unplaced,0,Unplaced
+10502,Riya Patel,Female,25,Ahmedabad,M.Sc,9.44,IIT Delhi,Unplaced,0,Unplaced
+10503,Kabir Gupta,Female,18,Delhi,PhD,9.3,NIT Trichy,Unplaced,14.63,Placed
+10504,Aryan Sharma,Male,25,Mumbai,M.Sc,6.54,IISc Bangalore,TCS,15.9,Placed
+10505,Saanvi Singh,Female,22,Mumbai,MBA,9.78,IISc Bangalore,Amazon,4.26,Placed
+10506,Kabir Sharma,Male,25,Hyderabad,B.Sc,9.99,JNU,Unplaced,18.93,Placed
+10507,Aryan Singh,Female,22,Lucknow,B.Tech,7.45,DU,Deloitte,19.11,Placed
+10508,Riya Gupta,Male,27,Chennai,PhD,7.82,Manipal University,Unplaced,0,Unplaced
+10509,Zoya Chopra,Female,19,Mumbai,B.Tech,7.31,Anna University,Microsoft,10.39,Placed
+10510,Anika Gupta,Female,21,Mumbai,B.A,6.45,NIT Trichy,Unplaced,0,Unplaced
+10511,Aarav Reddy,Female,18,Kolkata,B.Com,8.8,DU,Deloitte,19.23,Placed
+10512,Riya Mehta,Male,23,Ahmedabad,M.Tech,7.11,Manipal University,IBM,14.43,Placed
+10513,Riya Singh,Female,24,Chennai,M.Tech,9.49,Manipal University,Infosys,22.87,Placed
+10514,Anika Singh,Female,25,Ahmedabad,B.A,7.92,IISc Bangalore,Unplaced,0,Unplaced
+10515,Kabir Singh,Female,21,Jaipur,B.A,7.37,NIT Trichy,Accenture,27.19,Placed
+10516,Vihaan Gupta,Male,23,Pune,MBA,8.43,DU,Unplaced,0,Unplaced
+10517,Aarav Chopra,Female,21,Bangalore,MBA,7.39,VIT,Capgemini,18.99,Placed
+10518,Vihaan Nair,Female,23,Ahmedabad,PhD,7.27,Anna University,TCS,19.28,Placed
+10519,Riya Singh,Male,27,Delhi,B.Tech,6.51,BITS Pilani,Unplaced,0,Unplaced
+10520,Aarav Gupta,Female,24,Ahmedabad,B.Com,9.12,VIT,Unplaced,11.72,Placed
+10521,Anika Reddy,Female,25,Pune,MBA,6.93,IIT Delhi,Wipro,7.43,Placed
+10522,Vihaan Sharma,Female,22,Mumbai,B.A,6.04,IIT Delhi,Wipro,18.46,Placed
+10523,Ishaan Gupta,Female,22,Hyderabad,M.Sc,6.39,Manipal University,Google,8.73,Placed
+10524,Anika Sharma,Male,25,Pune,B.Tech,7.39,DU,Amazon,19.6,Placed
+10525,Riya Gupta,Female,21,Mumbai,B.Tech,8.15,JNU,Microsoft,19.21,Placed
+10526,Kabir Mehta,Female,24,Ahmedabad,B.Tech,7.7,IIT Delhi,Unplaced,0,Unplaced
+10527,Kabir Sharma,Female,24,Pune,MBA,6.29,Manipal University,IBM,27.03,Placed
+10528,Mira Mehta,Male,27,Jaipur,M.Tech,6.58,NIT Trichy,Unplaced,0,Unplaced
+10529,Riya Das,Male,22,Kolkata,PhD,9.46,Manipal University,Unplaced,0,Unplaced
+10530,Aryan Kumar,Male,23,Hyderabad,B.Tech,9.13,Manipal University,Unplaced,24.59,Placed
+10531,Kabir Kumar,Female,23,Lucknow,B.Tech,9.32,JNU,Deloitte,13.49,Placed
+10532,Zoya Singh,Male,21,Kolkata,B.Tech,6.97,NIT Trichy,Google,31.76,Placed
+10533,Vihaan Kumar,Female,18,Chennai,B.Sc,7.58,NIT Trichy,Unplaced,0,Unplaced
+10534,Vihaan Das,Female,18,Kolkata,B.Sc,6.86,IIT Bombay,Unplaced,0,Unplaced
+10535,Riya Sharma,Male,19,Mumbai,PhD,6.74,JNU,Microsoft,32.83,Placed
+10536,Mira Reddy,Female,19,Bangalore,M.Tech,9.38,Manipal University,Unplaced,5.36,Placed
+10537,Mira Singh,Male,26,Kolkata,MBA,6.33,IIT Delhi,TCS,8.19,Placed
+10538,Zoya Mehta,Male,26,Pune,B.A,8.14,DU,Unplaced,0,Unplaced
+10539,Riya Gupta,Male,18,Jaipur,B.A,7.36,Manipal University,IBM,15.57,Placed
+10540,Mira Patel,Male,25,Bangalore,B.Tech,8.81,Anna University,Amazon,15.6,Placed
+10541,Anika Patel,Male,19,Pune,M.Tech,7.44,IIT Bombay,Unplaced,0,Unplaced
+10542,Aarav Reddy,Male,25,Mumbai,B.A,9.76,JNU,Unplaced,0,Unplaced
+10543,Riya Sharma,Male,19,Bangalore,B.Tech,6.83,DU,Unplaced,0,Unplaced
+10544,Aryan Mehta,Male,27,Ahmedabad,M.Sc,8.54,BITS Pilani,Unplaced,0,Unplaced
+10545,Anika Chopra,Female,26,Lucknow,PhD,8.57,JNU,Google,25.12,Placed
+10546,Riya Mehta,Male,20,Mumbai,B.Sc,6.53,VIT,Unplaced,0,Unplaced
+10547,Kabir Singh,Male,27,Ahmedabad,MBA,7.6,BITS Pilani,Unplaced,0,Unplaced
+10548,Ishaan Das,Male,24,Jaipur,B.Tech,9.98,VIT,Deloitte,20.41,Placed
+10549,Anika Gupta,Male,19,Hyderabad,PhD,9.34,Manipal University,Unplaced,0,Unplaced
+10550,Riya Chopra,Female,23,Delhi,M.Sc,8.01,JNU,TCS,5.97,Placed
+10551,Saanvi Singh,Male,26,Delhi,M.Tech,8.08,IIT Delhi,Unplaced,0,Unplaced
+10552,Kabir Nair,Male,27,Lucknow,PhD,9.13,Anna University,Amazon,28.32,Placed
+10553,Saanvi Das,Male,18,Mumbai,B.Sc,8.88,JNU,Unplaced,0,Unplaced
+10554,Anika Patel,Male,21,Hyderabad,M.Tech,6.63,IIT Delhi,Accenture,23.9,Placed
+10555,Kabir Kumar,Female,26,Bangalore,MBA,7.28,IIT Bombay,Unplaced,0,Unplaced
+10556,Vihaan Das,Female,23,Hyderabad,B.Com,9.29,Anna University,Unplaced,0,Unplaced
+10557,Riya Gupta,Male,20,Delhi,B.Sc,9.67,BITS Pilani,TCS,30.63,Placed
+10558,Aarav Singh,Male,20,Chennai,B.Sc,7.8,IISc Bangalore,TCS,8.28,Placed
+10559,Riya Chopra,Male,26,Mumbai,B.A,9.62,DU,IBM,18.01,Placed
+10560,Anika Nair,Male,18,Jaipur,B.Tech,7.77,NIT Trichy,Infosys,6.35,Placed
+10561,Saanvi Patel,Male,27,Mumbai,B.Sc,6.58,BITS Pilani,Unplaced,0,Unplaced
+10562,Ishaan Singh,Male,18,Ahmedabad,B.Com,6.94,DU,Unplaced,27.85,Placed
+10563,Aryan Patel,Male,22,Ahmedabad,B.A,9.88,IIT Bombay,Amazon,9.69,Placed
+10564,Saanvi Chopra,Female,19,Hyderabad,PhD,6.76,VIT,Unplaced,7.07,Placed
+10565,Zoya Chopra,Male,22,Hyderabad,M.Sc,7.64,Anna University,Wipro,29.98,Placed
+10566,Mira Gupta,Male,25,Kolkata,PhD,8.33,IISc Bangalore,Capgemini,12.8,Placed
+10567,Saanvi Chopra,Male,25,Mumbai,B.A,8.93,IIT Bombay,Unplaced,0,Unplaced
+10568,Riya Das,Female,18,Kolkata,B.Tech,6.28,NIT Trichy,TCS,5.05,Placed
+10569,Mira Sharma,Male,27,Bangalore,MBA,9.99,Manipal University,Unplaced,9.08,Placed
+10570,Aryan Patel,Male,18,Bangalore,B.Com,6.39,IISc Bangalore,IBM,24.97,Placed
+10571,Ishaan Chopra,Male,27,Lucknow,M.Sc,6.34,Manipal University,Google,16.3,Placed
+10572,Zoya Das,Female,27,Pune,MBA,9.82,IISc Bangalore,Unplaced,0,Unplaced
+10573,Saanvi Chopra,Female,24,Lucknow,B.A,6.06,BITS Pilani,Deloitte,9.11,Placed
+10574,Kabir Nair,Female,18,Hyderabad,M.Tech,8.33,DU,Unplaced,0,Unplaced
+10575,Riya Sharma,Female,19,Pune,M.Tech,9.64,Anna University,Microsoft,9.47,Placed
+10576,Aarav Singh,Female,27,Ahmedabad,B.A,6.08,BITS Pilani,Infosys,13.95,Placed
+10577,Aarav Mehta,Female,22,Hyderabad,B.Tech,6.49,IISc Bangalore,Unplaced,0,Unplaced
+10578,Anika Das,Male,20,Kolkata,MBA,8.52,VIT,Unplaced,0,Unplaced
+10579,Saanvi Patel,Female,21,Hyderabad,M.Tech,7.65,Manipal University,Infosys,14.56,Placed
+10580,Aarav Sharma,Female,20,Lucknow,PhD,6.91,NIT Trichy,Unplaced,0,Unplaced
+10581,Anika Kumar,Female,24,Lucknow,B.Tech,9.23,NIT Trichy,Wipro,33.14,Placed
+10582,Riya Reddy,Female,21,Jaipur,MBA,9.78,BITS Pilani,Unplaced,0,Unplaced
+10583,Vihaan Sharma,Female,19,Bangalore,B.A,7.23,IIT Delhi,Unplaced,0,Unplaced
+10584,Vihaan Mehta,Female,21,Chennai,B.Tech,6.35,BITS Pilani,Unplaced,29.57,Placed
+10585,Riya Kumar,Female,22,Lucknow,MBA,6.71,Manipal University,Deloitte,17.65,Placed
+10586,Riya Gupta,Female,20,Jaipur,M.Tech,6.38,DU,Unplaced,0,Unplaced
+10587,Aarav Mehta,Male,19,Chennai,B.Sc,9.69,DU,Unplaced,0,Unplaced
+10588,Saanvi Sharma,Female,21,Hyderabad,MBA,8.53,IIT Delhi,Unplaced,0,Unplaced
+10589,Mira Chopra,Female,24,Jaipur,M.Sc,9.64,JNU,Unplaced,0,Unplaced
+10590,Ishaan Mehta,Male,21,Lucknow,M.Sc,7.1,JNU,Microsoft,29.2,Placed
+10591,Zoya Das,Female,25,Delhi,M.Sc,9.59,DU,Google,25.27,Placed
+10592,Riya Chopra,Female,21,Hyderabad,B.Sc,7.33,Manipal University,Unplaced,0,Unplaced
+10593,Saanvi Das,Male,22,Mumbai,B.Tech,6.07,Anna University,Accenture,17.9,Placed
+10594,Riya Nair,Female,21,Kolkata,MBA,6.92,JNU,Infosys,8.87,Placed
+10595,Ishaan Reddy,Female,18,Pune,MBA,9.99,JNU,Unplaced,0,Unplaced
+10596,Saanvi Mehta,Male,18,Mumbai,B.Tech,8.42,Manipal University,Wipro,34,Placed
+10597,Ishaan Chopra,Female,26,Kolkata,B.Tech,8.47,NIT Trichy,Amazon,33.6,Placed
+10598,Saanvi Nair,Male,19,Jaipur,B.Sc,7.48,BITS Pilani,Unplaced,0,Unplaced
+10599,Aarav Das,Female,22,Kolkata,M.Tech,6.26,IIT Delhi,TCS,6.7,Placed
+10600,Kabir Reddy,Male,18,Chennai,PhD,6.38,VIT,Amazon,31.85,Placed
+10601,Anika Singh,Male,19,Ahmedabad,B.Tech,6.29,IIT Bombay,Wipro,29.3,Placed
+10602,Riya Reddy,Male,21,Bangalore,MBA,6.44,BITS Pilani,Deloitte,12.66,Placed
+10603,Kabir Das,Female,22,Chennai,B.A,6.95,Manipal University,Unplaced,0,Unplaced
+10604,Zoya Patel,Female,24,Kolkata,B.A,6.9,IIT Delhi,Google,5.73,Placed
+10605,Aryan Gupta,Male,27,Lucknow,MBA,8.62,VIT,Unplaced,0,Unplaced
+10606,Riya Das,Male,22,Kolkata,B.Tech,7.57,IISc Bangalore,TCS,15.58,Placed
+10607,Anika Gupta,Male,21,Ahmedabad,B.Sc,6.51,IISc Bangalore,Unplaced,0,Unplaced
+10608,Zoya Patel,Female,20,Ahmedabad,B.Tech,8.98,Manipal University,Unplaced,0,Unplaced
+10609,Aryan Kumar,Female,22,Kolkata,M.Tech,8.3,BITS Pilani,Unplaced,0,Unplaced
+10610,Ishaan Nair,Male,25,Kolkata,B.Sc,8.43,JNU,Unplaced,0,Unplaced
+10611,Saanvi Sharma,Female,24,Ahmedabad,B.A,9.6,DU,Unplaced,0,Unplaced
+10612,Saanvi Gupta,Male,22,Jaipur,MBA,8.79,NIT Trichy,Unplaced,0,Unplaced
+10613,Aarav Chopra,Female,19,Delhi,B.A,6.04,IIT Bombay,Unplaced,0,Unplaced
+10614,Aryan Gupta,Male,20,Delhi,B.Sc,6.45,IIT Bombay,Unplaced,0,Unplaced
+10615,Riya Gupta,Female,27,Kolkata,B.Tech,9.28,VIT,Deloitte,20.43,Placed
+10616,Kabir Gupta,Male,22,Kolkata,M.Sc,6.64,IISc Bangalore,Infosys,18.29,Placed
+10617,Mira Gupta,Male,22,Pune,B.Com,7.69,NIT Trichy,Accenture,33.51,Placed
+10618,Riya Kumar,Male,22,Ahmedabad,M.Tech,8.94,IISc Bangalore,Unplaced,0,Unplaced
+10619,Ishaan Kumar,Female,21,Lucknow,MBA,7.57,IISc Bangalore,Unplaced,0,Unplaced
+10620,Anika Gupta,Female,20,Lucknow,MBA,6.62,JNU,Google,32.85,Placed
+10621,Mira Sharma,Male,27,Ahmedabad,B.A,7.94,Anna University,Unplaced,0,Unplaced
+10622,Anika Gupta,Male,26,Lucknow,B.Tech,9.19,NIT Trichy,Google,18.92,Placed
+10623,Mira Reddy,Male,22,Pune,M.Tech,8.26,Manipal University,Unplaced,0,Unplaced
+10624,Anika Singh,Male,20,Kolkata,B.Com,7.71,IISc Bangalore,TCS,17.38,Placed
+10625,Kabir Chopra,Female,21,Delhi,MBA,7.5,JNU,Unplaced,0,Unplaced
+10626,Riya Das,Male,20,Pune,B.A,8.21,Anna University,Unplaced,0,Unplaced
+10627,Mira Chopra,Male,18,Kolkata,M.Sc,7.11,IIT Bombay,Amazon,6.41,Placed
+10628,Ishaan Chopra,Female,21,Hyderabad,B.Com,9.59,DU,IBM,19.32,Placed
+10629,Aryan Patel,Male,20,Delhi,M.Sc,7.07,VIT,Wipro,10.24,Placed
+10630,Saanvi Chopra,Male,24,Ahmedabad,B.Sc,8.67,IISc Bangalore,Capgemini,31.52,Placed
+10631,Vihaan Sharma,Male,19,Bangalore,PhD,9.09,IIT Delhi,Unplaced,0,Unplaced
+10632,Vihaan Mehta,Male,25,Pune,B.Tech,8.11,JNU,Unplaced,0,Unplaced
+10633,Vihaan Sharma,Male,19,Jaipur,M.Tech,7.86,IIT Delhi,Deloitte,19.52,Placed
+10634,Anika Singh,Female,24,Mumbai,B.Sc,7.5,Anna University,Unplaced,0,Unplaced
+10635,Ishaan Chopra,Male,27,Mumbai,M.Sc,6.05,VIT,Unplaced,0,Unplaced
+10636,Kabir Mehta,Male,22,Pune,M.Sc,6.58,Anna University,Unplaced,0,Unplaced
+10637,Ishaan Kumar,Male,21,Mumbai,PhD,8.87,JNU,Unplaced,0,Unplaced
+10638,Kabir Mehta,Female,25,Kolkata,M.Sc,7.49,BITS Pilani,Amazon,14.81,Placed
+10639,Saanvi Sharma,Female,24,Jaipur,MBA,9,IIT Bombay,Accenture,6.81,Placed
+10640,Aarav Chopra,Male,20,Lucknow,B.Com,7.8,IIT Delhi,Deloitte,13.64,Placed
+10641,Saanvi Das,Female,23,Bangalore,B.Com,7.55,Anna University,Unplaced,0,Unplaced
+10642,Zoya Reddy,Female,27,Bangalore,M.Sc,6.95,Manipal University,Unplaced,0,Unplaced
+10643,Riya Reddy,Male,23,Lucknow,B.A,9.6,Anna University,Unplaced,0,Unplaced
+10644,Anika Mehta,Male,19,Hyderabad,B.A,9.11,IISc Bangalore,Unplaced,0,Unplaced
+10645,Kabir Nair,Female,19,Chennai,MBA,9.63,IISc Bangalore,Capgemini,7.06,Placed
+10646,Anika Das,Female,19,Jaipur,M.Tech,9.2,IIT Delhi,Unplaced,0,Unplaced
+10647,Ishaan Gupta,Male,27,Bangalore,M.Sc,8.06,IIT Bombay,Microsoft,32.12,Placed
+10648,Ishaan Mehta,Male,23,Ahmedabad,M.Tech,6.36,IISc Bangalore,Deloitte,18.34,Placed
+10649,Anika Gupta,Female,26,Chennai,B.Tech,7.32,NIT Trichy,IBM,28.28,Placed
+10650,Kabir Gupta,Female,19,Lucknow,PhD,6.18,VIT,Infosys,3.33,Placed
+10651,Kabir Singh,Male,21,Bangalore,B.Tech,8.53,Manipal University,Unplaced,0,Unplaced
+10652,Vihaan Nair,Male,27,Hyderabad,B.Tech,8.55,IIT Delhi,Infosys,11.83,Placed
+10653,Zoya Das,Male,23,Jaipur,M.Tech,6.08,Manipal University,Unplaced,0,Unplaced
+10654,Anika Mehta,Female,24,Chennai,M.Tech,9.28,BITS Pilani,Unplaced,0,Unplaced
+10655,Aryan Mehta,Male,26,Kolkata,B.Com,8.76,BITS Pilani,Wipro,23.82,Placed
+10656,Anika Patel,Male,23,Pune,MBA,6.87,IISc Bangalore,Unplaced,0,Unplaced
+10657,Aarav Sharma,Male,18,Chennai,B.Sc,9.7,BITS Pilani,Unplaced,0,Unplaced
+10658,Kabir Patel,Female,22,Mumbai,B.Sc,7.46,VIT,Unplaced,0,Unplaced
+10659,Saanvi Das,Female,23,Hyderabad,PhD,8.83,JNU,Wipro,32.67,Placed
+10660,Zoya Chopra,Female,18,Bangalore,B.A,7.58,VIT,Unplaced,0,Unplaced
+10661,Zoya Chopra,Male,23,Kolkata,B.Sc,6.56,DU,Unplaced,0,Unplaced
+10662,Saanvi Mehta,Male,25,Bangalore,B.Sc,8.56,Manipal University,Wipro,3.81,Placed
+10663,Aarav Patel,Female,19,Kolkata,B.Sc,9.76,Anna University,Unplaced,0,Unplaced
+10664,Ishaan Mehta,Male,25,Lucknow,B.A,7.02,Manipal University,Unplaced,0,Unplaced
+10665,Zoya Kumar,Male,26,Ahmedabad,B.Tech,6.06,IIT Bombay,Google,11.61,Placed
+10666,Vihaan Nair,Male,18,Jaipur,B.A,7.48,DU,Wipro,28.29,Placed
+10667,Aarav Chopra,Male,24,Pune,B.Sc,9.62,Anna University,Unplaced,0,Unplaced
+10668,Zoya Das,Male,26,Pune,M.Tech,9.53,NIT Trichy,Unplaced,0,Unplaced
+10669,Riya Mehta,Female,18,Ahmedabad,B.Com,7.42,DU,Unplaced,0,Unplaced
+10670,Zoya Patel,Female,24,Pune,B.Sc,9.63,Manipal University,Unplaced,0,Unplaced
+10671,Vihaan Das,Female,26,Ahmedabad,M.Tech,6.7,DU,Unplaced,0,Unplaced
+10672,Ishaan Reddy,Female,25,Mumbai,M.Tech,8.42,IISc Bangalore,TCS,19.9,Placed
+10673,Riya Chopra,Female,27,Delhi,PhD,6.01,IISc Bangalore,Unplaced,0,Unplaced
+10674,Riya Das,Male,23,Chennai,B.Sc,9.1,IIT Bombay,Unplaced,0,Unplaced
+10675,Aryan Gupta,Female,24,Kolkata,M.Sc,9.53,BITS Pilani,IBM,27.91,Placed
+10676,Vihaan Chopra,Female,20,Ahmedabad,PhD,8.69,IIT Delhi,Unplaced,0,Unplaced
+10677,Vihaan Singh,Female,23,Chennai,B.A,8.2,DU,Unplaced,16.79,Placed
+10678,Anika Nair,Male,18,Ahmedabad,M.Tech,9.75,IIT Bombay,Infosys,14.31,Placed
+10679,Vihaan Sharma,Male,24,Bangalore,M.Tech,7.49,IISc Bangalore,Unplaced,0,Unplaced
+10680,Aarav Gupta,Male,24,Chennai,B.Sc,8.95,Manipal University,Amazon,31.39,Placed
+10681,Saanvi Das,Male,21,Mumbai,M.Tech,8.19,Anna University,Unplaced,0,Unplaced
+10682,Vihaan Singh,Female,27,Delhi,PhD,6.73,IISc Bangalore,Google,12.4,Placed
+10683,Saanvi Gupta,Male,20,Bangalore,M.Tech,9.99,DU,Infosys,29.22,Placed
+10684,Anika Sharma,Male,23,Bangalore,B.Tech,7.18,IIT Bombay,TCS,34.88,Placed
+10685,Vihaan Das,Male,25,Ahmedabad,MBA,7.62,NIT Trichy,Infosys,4.78,Placed
+10686,Riya Chopra,Female,20,Ahmedabad,M.Sc,8.06,JNU,Unplaced,0,Unplaced
+10687,Anika Das,Male,23,Kolkata,M.Sc,9.67,JNU,Unplaced,0,Unplaced
+10688,Zoya Kumar,Male,22,Mumbai,B.Tech,6.86,Manipal University,Unplaced,0,Unplaced
+10689,Mira Reddy,Female,21,Delhi,M.Tech,7.28,IIT Delhi,IBM,17.55,Placed
+10690,Aarav Das,Female,23,Ahmedabad,PhD,9.68,JNU,Unplaced,28.56,Placed
+10691,Anika Mehta,Female,25,Ahmedabad,MBA,6.13,BITS Pilani,Deloitte,23.24,Placed
+10692,Saanvi Mehta,Female,18,Kolkata,M.Sc,6.52,Anna University,Unplaced,0,Unplaced
+10693,Riya Das,Male,27,Jaipur,M.Sc,7.88,BITS Pilani,Unplaced,0,Unplaced
+10694,Riya Gupta,Female,24,Kolkata,M.Tech,9.28,DU,Unplaced,0,Unplaced
+10695,Riya Chopra,Male,24,Mumbai,B.Com,8.93,DU,Wipro,30.15,Placed
+10696,Ishaan Nair,Female,25,Jaipur,MBA,6.59,DU,Unplaced,0,Unplaced
+10697,Vihaan Patel,Female,19,Bangalore,M.Tech,7.86,IIT Delhi,Unplaced,19.91,Placed
+10698,Aryan Patel,Female,22,Chennai,B.Tech,6.03,IIT Delhi,Google,3.86,Placed
+10699,Anika Singh,Female,25,Hyderabad,B.A,6.21,IIT Bombay,IBM,17.37,Placed
+10700,Ishaan Sharma,Female,24,Pune,M.Tech,8.68,Manipal University,Unplaced,0,Unplaced
+10701,Mira Sharma,Male,27,Bangalore,B.A,8.12,BITS Pilani,Unplaced,0,Unplaced
+10702,Ishaan Gupta,Female,18,Pune,M.Sc,8.69,VIT,Amazon,30.26,Placed
+10703,Zoya Mehta,Male,22,Bangalore,M.Tech,7.93,NIT Trichy,Unplaced,0,Unplaced
+10704,Ishaan Singh,Female,18,Pune,B.A,9.83,JNU,Infosys,32.07,Placed
+10705,Saanvi Gupta,Female,22,Kolkata,MBA,6,IISc Bangalore,Microsoft,3.77,Placed
+10706,Ishaan Reddy,Female,25,Hyderabad,B.A,6.11,IIT Bombay,Unplaced,0,Unplaced
+10707,Vihaan Patel,Female,27,Bangalore,M.Sc,9.93,JNU,Unplaced,0,Unplaced
+10708,Aarav Singh,Female,24,Chennai,PhD,9.76,IIT Bombay,Wipro,15.62,Placed
+10709,Aarav Sharma,Male,25,Mumbai,MBA,6.67,IIT Delhi,Capgemini,16.94,Placed
+10710,Saanvi Patel,Female,20,Chennai,M.Tech,7.05,VIT,Wipro,30.08,Placed
+10711,Saanvi Mehta,Female,20,Ahmedabad,B.A,9.12,IIT Bombay,Google,33.38,Placed
+10712,Kabir Patel,Male,20,Delhi,B.Com,7.22,VIT,IBM,17.63,Placed
+10713,Aarav Chopra,Male,18,Bangalore,B.Tech,7.33,IIT Bombay,Unplaced,0,Unplaced
+10714,Zoya Gupta,Female,27,Mumbai,B.Com,9.93,IISc Bangalore,IBM,12.23,Placed
+10715,Vihaan Reddy,Male,27,Ahmedabad,B.Sc,6.95,Anna University,Unplaced,0,Unplaced
+10716,Ishaan Gupta,Male,20,Chennai,PhD,9.81,IIT Bombay,Google,30.5,Placed
+10717,Aryan Kumar,Male,25,Hyderabad,B.Tech,6.06,NIT Trichy,Unplaced,0,Unplaced
+10718,Mira Singh,Male,25,Ahmedabad,PhD,8.85,IIT Bombay,Unplaced,0,Unplaced
+10719,Riya Mehta,Female,26,Ahmedabad,M.Tech,8.93,IISc Bangalore,Unplaced,0,Unplaced
+10720,Anika Gupta,Female,26,Pune,B.A,6.84,VIT,Unplaced,21.62,Placed
+10721,Kabir Gupta,Female,23,Lucknow,B.Sc,7.99,VIT,Amazon,17.44,Placed
+10722,Zoya Das,Male,25,Lucknow,B.Com,7.64,BITS Pilani,Capgemini,25.7,Placed
+10723,Mira Gupta,Female,26,Pune,B.Com,6.88,DU,Unplaced,0,Unplaced
+10724,Vihaan Reddy,Male,19,Ahmedabad,MBA,8.95,Anna University,Unplaced,0,Unplaced
+10725,Kabir Patel,Female,20,Delhi,PhD,8.6,Manipal University,Amazon,3.37,Placed
+10726,Riya Das,Male,25,Jaipur,B.Tech,9.49,DU,Wipro,3.67,Placed
+10727,Aryan Chopra,Female,19,Lucknow,MBA,7.53,DU,Unplaced,0,Unplaced
+10728,Vihaan Mehta,Male,27,Delhi,M.Sc,8.6,Manipal University,Unplaced,0,Unplaced
+10729,Ishaan Chopra,Male,23,Lucknow,B.Sc,9.35,Manipal University,Unplaced,0,Unplaced
+10730,Aarav Das,Female,18,Pune,MBA,7.68,DU,Google,32.19,Placed
+10731,Ishaan Kumar,Male,25,Ahmedabad,B.A,9.34,IISc Bangalore,Microsoft,14.36,Placed
+10732,Anika Nair,Female,21,Mumbai,PhD,6.76,DU,Unplaced,0,Unplaced
+10733,Aarav Sharma,Female,25,Chennai,B.Com,6.63,JNU,TCS,26.08,Placed
+10734,Mira Nair,Female,19,Pune,B.Sc,6.53,BITS Pilani,Amazon,4.87,Placed
+10735,Aarav Das,Female,23,Jaipur,PhD,8.93,NIT Trichy,IBM,31.46,Placed
+10736,Ishaan Sharma,Male,25,Bangalore,B.Tech,8.18,Manipal University,Wipro,8.47,Placed
+10737,Mira Reddy,Female,19,Hyderabad,M.Tech,7.25,IISc Bangalore,Unplaced,0,Unplaced
+10738,Mira Gupta,Female,27,Lucknow,B.Com,9.88,Anna University,Unplaced,0,Unplaced
+10739,Saanvi Das,Female,22,Kolkata,M.Tech,9.13,IIT Bombay,Accenture,7.45,Placed
+10740,Aarav Mehta,Female,23,Bangalore,B.Tech,9.38,Anna University,Google,24.04,Placed
+10741,Anika Kumar,Female,21,Jaipur,B.Sc,9.33,IISc Bangalore,Unplaced,0,Unplaced
+10742,Aryan Kumar,Male,21,Mumbai,B.A,8.23,Anna University,TCS,34.8,Placed
+10743,Anika Reddy,Female,25,Lucknow,MBA,8.93,VIT,Infosys,4.33,Placed
+10744,Kabir Gupta,Female,19,Jaipur,B.Com,9.92,BITS Pilani,Microsoft,30.91,Placed
+10745,Vihaan Nair,Male,21,Bangalore,B.Com,6.6,NIT Trichy,Unplaced,0,Unplaced
+10746,Aarav Singh,Male,25,Kolkata,M.Tech,6.26,VIT,Google,4.81,Placed
+10747,Kabir Mehta,Male,21,Pune,B.Tech,9.65,JNU,Unplaced,0,Unplaced
+10748,Anika Kumar,Female,19,Lucknow,B.A,8.14,NIT Trichy,Infosys,25.09,Placed
+10749,Riya Mehta,Male,20,Chennai,B.Tech,9.81,NIT Trichy,Unplaced,0,Unplaced
+10750,Kabir Sharma,Male,23,Lucknow,B.Com,6.66,VIT,IBM,20.06,Placed
+10751,Riya Reddy,Female,27,Jaipur,PhD,6.22,IISc Bangalore,Infosys,12.59,Placed
+10752,Kabir Sharma,Female,27,Lucknow,B.Com,6.1,IIT Bombay,Microsoft,6.35,Placed
+10753,Kabir Kumar,Female,27,Pune,B.A,6.98,NIT Trichy,Microsoft,33.57,Placed
+10754,Vihaan Reddy,Male,20,Chennai,B.A,6.08,IIT Delhi,Google,22.19,Placed
+10755,Mira Sharma,Male,22,Chennai,MBA,9.93,JNU,Unplaced,0,Unplaced
+10756,Aryan Nair,Male,26,Pune,B.Tech,7.94,Manipal University,Unplaced,0,Unplaced
+10757,Zoya Sharma,Female,20,Ahmedabad,B.A,6.71,IIT Delhi,Google,22.71,Placed
+10758,Saanvi Chopra,Male,19,Ahmedabad,PhD,9.96,Manipal University,Unplaced,0,Unplaced
+10759,Vihaan Gupta,Male,18,Jaipur,M.Tech,7.99,IISc Bangalore,Amazon,22.02,Placed
+10760,Aarav Singh,Male,21,Hyderabad,M.Tech,6.64,Manipal University,Unplaced,0,Unplaced
+10761,Ishaan Nair,Male,18,Mumbai,PhD,6.31,DU,Google,5.17,Placed
+10762,Saanvi Kumar,Female,22,Kolkata,M.Tech,8.79,Manipal University,Google,9.8,Placed
+10763,Zoya Chopra,Male,19,Pune,MBA,7.04,IIT Bombay,Unplaced,0,Unplaced
+10764,Anika Chopra,Male,18,Lucknow,B.A,7.18,NIT Trichy,Deloitte,22,Placed
+10765,Zoya Reddy,Female,27,Hyderabad,B.Com,9.74,IISc Bangalore,Unplaced,0,Unplaced
+10766,Saanvi Chopra,Male,26,Kolkata,B.Sc,8.16,DU,Infosys,13.1,Placed
+10767,Ishaan Reddy,Male,18,Jaipur,M.Sc,7.81,JNU,Unplaced,0,Unplaced
+10768,Zoya Nair,Male,23,Chennai,B.Sc,9.01,VIT,Unplaced,0,Unplaced
+10769,Riya Chopra,Female,21,Mumbai,MBA,8.11,BITS Pilani,Wipro,11.14,Placed
+10770,Saanvi Das,Male,22,Lucknow,B.A,7.46,BITS Pilani,Capgemini,32.63,Placed
+10771,Mira Mehta,Female,19,Mumbai,B.A,6.51,DU,Amazon,27.82,Placed
+10772,Riya Singh,Female,23,Ahmedabad,B.A,7.11,NIT Trichy,Amazon,6.22,Placed
+10773,Aryan Das,Female,19,Jaipur,M.Sc,6.75,IIT Bombay,Unplaced,0,Unplaced
+10774,Saanvi Gupta,Female,25,Kolkata,M.Sc,8.47,IIT Delhi,Unplaced,0,Unplaced
+10775,Anika Reddy,Female,20,Jaipur,B.Sc,6.26,Anna University,Unplaced,0,Unplaced
+10776,Riya Mehta,Male,25,Bangalore,M.Sc,8.91,BITS Pilani,Unplaced,4.61,Placed
+10777,Zoya Singh,Female,27,Mumbai,M.Sc,9.57,VIT,Deloitte,18.41,Placed
+10778,Vihaan Nair,Male,22,Delhi,MBA,9.4,Anna University,Unplaced,0,Unplaced
+10779,Saanvi Patel,Female,25,Jaipur,M.Tech,8.74,IISc Bangalore,Amazon,32.13,Placed
+10780,Ishaan Kumar,Female,23,Lucknow,B.A,6.9,NIT Trichy,Wipro,20.43,Placed
+10781,Anika Patel,Female,25,Hyderabad,MBA,8.35,VIT,Unplaced,34.2,Placed
+10782,Mira Chopra,Male,22,Lucknow,PhD,7.26,Anna University,Unplaced,0,Unplaced
+10783,Saanvi Gupta,Female,21,Jaipur,B.Com,9.04,Manipal University,Unplaced,0,Unplaced
+10784,Aryan Mehta,Female,21,Mumbai,B.A,7.03,Anna University,Unplaced,0,Unplaced
+10785,Anika Mehta,Female,20,Hyderabad,B.Sc,9.77,Anna University,Capgemini,26.56,Placed
+10786,Mira Chopra,Female,25,Chennai,B.A,8.03,VIT,Capgemini,25.98,Placed
+10787,Kabir Nair,Male,24,Jaipur,M.Sc,9.55,IIT Bombay,Unplaced,0,Unplaced
+10788,Aryan Mehta,Male,19,Hyderabad,PhD,8.98,BITS Pilani,Accenture,27.3,Placed
+10789,Vihaan Nair,Male,22,Kolkata,B.Sc,9.29,IIT Delhi,Unplaced,0,Unplaced
+10790,Zoya Singh,Female,19,Kolkata,M.Tech,6.69,NIT Trichy,Unplaced,0,Unplaced
+10791,Vihaan Mehta,Female,23,Kolkata,B.Com,8.29,DU,TCS,22.49,Placed
+10792,Kabir Chopra,Female,24,Delhi,B.Sc,7.1,NIT Trichy,Unplaced,0,Unplaced
+10793,Aryan Patel,Female,27,Lucknow,B.Sc,7.94,IIT Bombay,Deloitte,18.65,Placed
+10794,Kabir Sharma,Male,23,Mumbai,MBA,8.36,BITS Pilani,Unplaced,0,Unplaced
+10795,Ishaan Singh,Male,27,Mumbai,MBA,9.85,Anna University,Unplaced,0,Unplaced
+10796,Riya Kumar,Female,24,Ahmedabad,B.A,6.35,VIT,Unplaced,0,Unplaced
+10797,Aryan Patel,Male,19,Jaipur,B.Com,6.87,VIT,Unplaced,5.52,Placed
+10798,Kabir Kumar,Female,26,Lucknow,B.Tech,9.94,JNU,Unplaced,0,Unplaced
+10799,Ishaan Mehta,Male,25,Jaipur,PhD,7.58,Anna University,Capgemini,24.42,Placed
+10800,Ishaan Patel,Male,25,Lucknow,MBA,8.1,DU,Unplaced,0,Unplaced
+10801,Zoya Chopra,Male,22,Pune,B.Tech,8.7,BITS Pilani,Unplaced,0,Unplaced
+10802,Zoya Mehta,Male,24,Mumbai,B.Sc,9.07,Manipal University,Unplaced,0,Unplaced
+10803,Mira Sharma,Female,23,Delhi,B.Sc,7.08,IIT Bombay,Deloitte,4.63,Placed
+10804,Riya Nair,Female,19,Ahmedabad,PhD,6.46,IIT Delhi,Deloitte,26.5,Placed
+10805,Mira Das,Female,23,Chennai,PhD,6.29,IISc Bangalore,Unplaced,28.19,Placed
+10806,Mira Kumar,Female,27,Bangalore,B.Com,6.81,VIT,Amazon,28.53,Placed
+10807,Riya Kumar,Male,22,Mumbai,MBA,7.56,IIT Bombay,Amazon,3.16,Placed
+10808,Aryan Gupta,Female,19,Delhi,B.Com,6.68,DU,Google,13.81,Placed
+10809,Kabir Kumar,Female,26,Kolkata,B.Sc,9.9,JNU,Deloitte,29.46,Placed
+10810,Vihaan Das,Female,21,Lucknow,PhD,8.84,IIT Delhi,Unplaced,0,Unplaced
+10811,Kabir Gupta,Male,21,Hyderabad,B.Sc,7.15,IIT Bombay,Unplaced,0,Unplaced
+10812,Mira Kumar,Male,25,Delhi,MBA,9.01,BITS Pilani,Capgemini,11.28,Placed
+10813,Zoya Das,Male,26,Lucknow,M.Sc,6.37,IIT Delhi,Unplaced,0,Unplaced
+10814,Ishaan Patel,Female,22,Kolkata,B.Tech,7.26,IISc Bangalore,Google,11.66,Placed
+10815,Riya Mehta,Female,18,Mumbai,B.Com,9.19,IISc Bangalore,Unplaced,0,Unplaced
+10816,Zoya Nair,Female,24,Kolkata,B.Sc,7.08,IIT Delhi,Unplaced,0,Unplaced
+10817,Mira Chopra,Male,18,Mumbai,B.Tech,8.99,NIT Trichy,Amazon,28.78,Placed
+10818,Aryan Patel,Female,25,Bangalore,B.Com,6.53,Anna University,Unplaced,0,Unplaced
+10819,Ishaan Kumar,Male,21,Kolkata,B.Tech,8.21,DU,Google,8.19,Placed
+10820,Riya Sharma,Female,23,Chennai,B.Sc,9.14,Anna University,Unplaced,0,Unplaced
+10821,Anika Singh,Female,27,Hyderabad,B.Sc,8.68,NIT Trichy,Infosys,24.54,Placed
+10822,Saanvi Mehta,Male,27,Ahmedabad,B.Sc,8.69,DU,Unplaced,0,Unplaced
+10823,Saanvi Reddy,Male,22,Bangalore,B.Com,8.95,Anna University,Unplaced,0,Unplaced
+10824,Zoya Sharma,Female,20,Bangalore,B.A,8.1,DU,Unplaced,0,Unplaced
+10825,Anika Singh,Female,22,Hyderabad,B.Tech,8.62,IIT Delhi,Unplaced,0,Unplaced
+10826,Riya Gupta,Female,19,Kolkata,MBA,8.26,NIT Trichy,IBM,10.02,Placed
+10827,Mira Singh,Male,18,Bangalore,B.Sc,9.12,DU,Unplaced,0,Unplaced
+10828,Aryan Chopra,Male,20,Chennai,B.A,6.44,IIT Delhi,Unplaced,0,Unplaced
+10829,Vihaan Kumar,Male,18,Hyderabad,B.Tech,8.62,IISc Bangalore,Unplaced,0,Unplaced
+10830,Vihaan Kumar,Female,25,Jaipur,MBA,6.06,DU,Deloitte,6.11,Placed
+10831,Mira Nair,Female,27,Bangalore,PhD,7.48,IISc Bangalore,Microsoft,28.92,Placed
+10832,Mira Gupta,Male,26,Delhi,B.Sc,9.55,IISc Bangalore,Amazon,14.18,Placed
+10833,Aryan Das,Female,18,Hyderabad,MBA,8.31,IIT Delhi,Unplaced,0,Unplaced
+10834,Aarav Das,Female,25,Kolkata,B.Sc,7.63,IISc Bangalore,Infosys,8.54,Placed
+10835,Ishaan Reddy,Male,27,Ahmedabad,B.Sc,6.28,IIT Delhi,Unplaced,0,Unplaced
+10836,Kabir Kumar,Male,26,Ahmedabad,B.Sc,9.93,Anna University,Accenture,34.07,Placed
+10837,Kabir Chopra,Female,25,Jaipur,B.Com,8.28,IIT Delhi,Unplaced,0,Unplaced
+10838,Zoya Kumar,Female,24,Delhi,MBA,7.02,IISc Bangalore,Unplaced,0,Unplaced
+10839,Riya Das,Female,27,Lucknow,B.A,9.8,Manipal University,Unplaced,0,Unplaced
+10840,Kabir Kumar,Male,26,Mumbai,M.Sc,9.36,BITS Pilani,Unplaced,0,Unplaced
+10841,Mira Chopra,Male,21,Chennai,B.Com,8.68,JNU,Wipro,7.66,Placed
+10842,Zoya Reddy,Female,25,Delhi,B.Sc,8.65,Manipal University,Infosys,15.27,Placed
+10843,Ishaan Patel,Female,18,Mumbai,B.Sc,6.08,NIT Trichy,Unplaced,0,Unplaced
+10844,Zoya Gupta,Female,27,Lucknow,B.Com,7.38,Manipal University,Unplaced,0,Unplaced
+10845,Mira Patel,Female,24,Hyderabad,B.Tech,7.91,JNU,Infosys,28.62,Placed
+10846,Mira Reddy,Male,20,Jaipur,B.Sc,8.93,DU,Unplaced,22.39,Placed
+10847,Riya Sharma,Female,23,Lucknow,M.Tech,8.96,Anna University,Unplaced,0,Unplaced
+10848,Kabir Gupta,Female,23,Hyderabad,M.Sc,6.48,VIT,Capgemini,20.02,Placed
+10849,Mira Mehta,Female,22,Mumbai,B.Tech,9.61,IIT Delhi,Google,21.42,Placed
+10850,Mira Sharma,Male,26,Delhi,M.Tech,9.41,JNU,Unplaced,0,Unplaced
+10851,Vihaan Singh,Male,20,Mumbai,B.A,6.63,IIT Bombay,Unplaced,17.76,Placed
+10852,Mira Patel,Female,19,Jaipur,B.Com,7.07,DU,Unplaced,0,Unplaced
+10853,Riya Sharma,Male,23,Chennai,M.Sc,8.57,IIT Bombay,Unplaced,0,Unplaced
+10854,Zoya Reddy,Male,24,Mumbai,M.Sc,8.89,Manipal University,IBM,32.1,Placed
+10855,Kabir Kumar,Male,23,Jaipur,B.A,9.8,IIT Bombay,Wipro,10.24,Placed
+10856,Riya Mehta,Female,19,Jaipur,M.Tech,9.14,DU,Unplaced,0,Unplaced
+10857,Mira Kumar,Female,20,Bangalore,M.Sc,6.63,VIT,IBM,13.87,Placed
+10858,Vihaan Patel,Female,27,Jaipur,B.Tech,7.91,IIT Bombay,Unplaced,0,Unplaced
+10859,Aarav Reddy,Female,24,Mumbai,B.A,9.46,DU,IBM,7.19,Placed
+10860,Aarav Patel,Female,20,Delhi,B.Com,6.44,JNU,Unplaced,0,Unplaced
+10861,Vihaan Gupta,Male,26,Mumbai,B.Com,6.03,VIT,Unplaced,0,Unplaced
+10862,Vihaan Singh,Female,25,Delhi,M.Sc,8.86,IISc Bangalore,Unplaced,0,Unplaced
+10863,Anika Mehta,Male,22,Jaipur,PhD,7.13,NIT Trichy,Unplaced,0,Unplaced
+10864,Anika Das,Male,24,Chennai,B.Com,7.89,IIT Delhi,Unplaced,22.37,Placed
+10865,Aarav Das,Male,26,Delhi,M.Tech,7.28,DU,Microsoft,13.14,Placed
+10866,Aarav Sharma,Male,21,Lucknow,PhD,6.09,Manipal University,Unplaced,0,Unplaced
+10867,Anika Nair,Female,19,Chennai,B.Tech,8.76,IIT Bombay,Unplaced,26.98,Placed
+10868,Saanvi Mehta,Female,19,Bangalore,M.Sc,7.99,IISc Bangalore,Microsoft,26.02,Placed
+10869,Anika Das,Male,23,Lucknow,M.Tech,6.28,NIT Trichy,Microsoft,22.79,Placed
+10870,Riya Kumar,Female,26,Kolkata,M.Tech,9.04,JNU,Unplaced,0,Unplaced
+10871,Ishaan Chopra,Female,25,Jaipur,PhD,9.66,Manipal University,Unplaced,0,Unplaced
+10872,Ishaan Kumar,Male,21,Chennai,M.Sc,8.48,VIT,Unplaced,0,Unplaced
+10873,Saanvi Singh,Male,25,Bangalore,M.Sc,8.26,IIT Delhi,Unplaced,0,Unplaced
+10874,Ishaan Reddy,Male,25,Lucknow,B.Com,9.71,IISc Bangalore,Accenture,10.08,Placed
+10875,Kabir Sharma,Male,25,Ahmedabad,B.Tech,6.85,Anna University,Unplaced,0,Unplaced
+10876,Aryan Sharma,Female,24,Ahmedabad,B.Com,7.68,Anna University,Accenture,5.72,Placed
+10877,Ishaan Chopra,Male,21,Pune,B.Tech,9.34,NIT Trichy,Unplaced,0,Unplaced
+10878,Saanvi Das,Female,21,Kolkata,MBA,7.1,Anna University,Deloitte,18.53,Placed
+10879,Vihaan Nair,Female,20,Jaipur,PhD,6.87,IISc Bangalore,Infosys,18.81,Placed
+10880,Aarav Sharma,Male,21,Kolkata,B.Tech,6.09,NIT Trichy,Unplaced,0,Unplaced
+10881,Kabir Kumar,Male,27,Delhi,PhD,9.58,IIT Delhi,Unplaced,33.13,Placed
+10882,Saanvi Kumar,Male,25,Kolkata,M.Sc,6.43,Anna University,Unplaced,0,Unplaced
+10883,Riya Patel,Male,19,Lucknow,PhD,7.64,VIT,Infosys,8.22,Placed
+10884,Aryan Chopra,Female,22,Pune,B.Tech,9.5,BITS Pilani,Unplaced,0,Unplaced
+10885,Zoya Nair,Female,23,Ahmedabad,B.Tech,9.05,DU,Unplaced,28.36,Placed
+10886,Aarav Das,Female,24,Mumbai,M.Tech,9.94,BITS Pilani,Unplaced,0,Unplaced
+10887,Aarav Chopra,Male,23,Jaipur,B.Sc,9.47,Anna University,Unplaced,0,Unplaced
+10888,Saanvi Singh,Male,25,Chennai,PhD,7.08,IIT Bombay,Unplaced,0,Unplaced
+10889,Ishaan Singh,Female,21,Mumbai,M.Tech,9.2,DU,Unplaced,0,Unplaced
+10890,Riya Reddy,Male,24,Mumbai,PhD,9.26,BITS Pilani,Unplaced,0,Unplaced
+10891,Vihaan Sharma,Female,19,Delhi,M.Tech,7.27,JNU,Capgemini,32.47,Placed
+10892,Vihaan Nair,Male,25,Delhi,M.Sc,9.45,IIT Delhi,Microsoft,28.94,Placed
+10893,Aryan Sharma,Male,22,Jaipur,MBA,6.28,NIT Trichy,Unplaced,0,Unplaced
+10894,Ishaan Sharma,Female,22,Lucknow,B.Tech,7.21,Anna University,IBM,8.39,Placed
+10895,Aarav Nair,Female,19,Jaipur,M.Tech,7.08,BITS Pilani,Unplaced,0,Unplaced
+10896,Vihaan Kumar,Male,26,Ahmedabad,M.Sc,6.15,DU,Wipro,17.19,Placed
+10897,Mira Sharma,Male,20,Hyderabad,MBA,8.32,IISc Bangalore,Accenture,4.84,Placed
+10898,Saanvi Das,Female,24,Chennai,B.Com,8.33,IIT Delhi,Microsoft,15.26,Placed
+10899,Aryan Nair,Male,21,Bangalore,MBA,9.6,IISc Bangalore,Unplaced,0,Unplaced
+10900,Mira Das,Female,18,Chennai,M.Tech,9.68,IIT Delhi,Capgemini,4.25,Placed
+10901,Vihaan Chopra,Male,26,Hyderabad,B.A,8.14,BITS Pilani,Unplaced,0,Unplaced
+10902,Aarav Gupta,Male,24,Hyderabad,B.Tech,6.7,BITS Pilani,Deloitte,8.93,Placed
+10903,Kabir Das,Male,19,Kolkata,B.Com,6.35,BITS Pilani,Unplaced,0,Unplaced
+10904,Mira Chopra,Female,27,Chennai,MBA,7.53,JNU,Deloitte,5.03,Placed
+10905,Aryan Patel,Female,18,Kolkata,M.Sc,7.39,NIT Trichy,Wipro,13.29,Placed
+10906,Anika Nair,Female,24,Hyderabad,M.Sc,6.95,IIT Bombay,Microsoft,15.65,Placed
+10907,Zoya Singh,Male,20,Chennai,M.Sc,7.72,IIT Delhi,Unplaced,0,Unplaced
+10908,Vihaan Reddy,Female,24,Lucknow,MBA,7.8,IIT Delhi,TCS,9.89,Placed
+10909,Aryan Gupta,Male,19,Hyderabad,B.A,6.56,DU,Wipro,3.63,Placed
+10910,Aarav Nair,Female,20,Jaipur,M.Tech,8.52,NIT Trichy,Unplaced,0,Unplaced
+10911,Vihaan Kumar,Male,22,Mumbai,B.Com,6.19,JNU,Unplaced,0,Unplaced
+10912,Aarav Sharma,Male,18,Mumbai,M.Tech,6.85,NIT Trichy,Capgemini,6.73,Placed
+10913,Anika Nair,Male,20,Chennai,M.Tech,7.86,IIT Delhi,Unplaced,0,Unplaced
+10914,Ishaan Nair,Male,20,Lucknow,M.Tech,7.57,IIT Delhi,Unplaced,0,Unplaced
+10915,Kabir Nair,Male,24,Lucknow,M.Sc,6.07,Anna University,Deloitte,29.41,Placed
+10916,Anika Gupta,Female,27,Delhi,M.Tech,8.78,Anna University,Unplaced,0,Unplaced
+10917,Vihaan Mehta,Female,27,Jaipur,M.Sc,8.24,Manipal University,Google,8.9,Placed
+10918,Riya Reddy,Male,23,Lucknow,M.Sc,9.48,DU,Unplaced,0,Unplaced
+10919,Mira Gupta,Male,23,Pune,B.A,9.8,BITS Pilani,Deloitte,30.18,Placed
+10920,Zoya Sharma,Female,21,Jaipur,B.Sc,9.02,IISc Bangalore,Unplaced,0,Unplaced
+10921,Mira Gupta,Male,24,Jaipur,B.Com,6.42,BITS Pilani,Unplaced,0,Unplaced
+10922,Anika Kumar,Male,26,Jaipur,B.Sc,9.07,NIT Trichy,Unplaced,0,Unplaced
+10923,Kabir Kumar,Female,24,Hyderabad,M.Tech,9.82,BITS Pilani,Unplaced,0,Unplaced
+10924,Aryan Sharma,Female,25,Delhi,MBA,8.25,Anna University,Infosys,7.24,Placed
+10925,Saanvi Sharma,Female,22,Kolkata,MBA,9.32,BITS Pilani,Microsoft,8.41,Placed
+10926,Anika Patel,Male,20,Jaipur,B.Com,6.06,Manipal University,IBM,10.7,Placed
+10927,Riya Nair,Male,27,Kolkata,B.Sc,9.12,IIT Bombay,Unplaced,0,Unplaced
+10928,Mira Chopra,Male,20,Pune,B.Tech,7.27,VIT,Amazon,13.88,Placed
+10929,Mira Patel,Female,18,Hyderabad,B.Tech,6.44,Manipal University,Deloitte,5.7,Placed
+10930,Aarav Patel,Male,20,Kolkata,B.A,7.99,BITS Pilani,Google,27.57,Placed
+10931,Aryan Sharma,Female,27,Ahmedabad,M.Sc,7.99,Manipal University,Unplaced,0,Unplaced
+10932,Anika Das,Female,21,Ahmedabad,M.Sc,6.67,IIT Bombay,Unplaced,0,Unplaced
+10933,Saanvi Nair,Female,24,Jaipur,M.Tech,7.88,Anna University,Unplaced,0,Unplaced
+10934,Vihaan Mehta,Male,23,Jaipur,M.Tech,9.8,NIT Trichy,Infosys,18.75,Placed
+10935,Riya Sharma,Female,24,Hyderabad,B.Com,9.58,BITS Pilani,Google,32.8,Placed
+10936,Aarav Singh,Female,24,Jaipur,M.Sc,7.71,VIT,Infosys,31.84,Placed
+10937,Vihaan Chopra,Male,26,Chennai,B.Sc,6.67,NIT Trichy,Unplaced,0,Unplaced
+10938,Zoya Chopra,Female,18,Mumbai,B.Tech,6.99,NIT Trichy,Unplaced,18.61,Placed
+10939,Saanvi Mehta,Male,22,Hyderabad,MBA,7.89,Anna University,Microsoft,17.1,Placed
+10940,Anika Chopra,Male,23,Lucknow,MBA,8.26,JNU,Unplaced,0,Unplaced
+10941,Aarav Singh,Male,24,Chennai,B.Sc,9.14,JNU,Deloitte,24.58,Placed
+10942,Riya Mehta,Male,22,Hyderabad,B.A,9.85,IISc Bangalore,Capgemini,19.3,Placed
+10943,Ishaan Patel,Male,26,Bangalore,B.Sc,7.74,NIT Trichy,Deloitte,13.87,Placed
+10944,Aryan Sharma,Female,23,Mumbai,M.Sc,8.77,JNU,Unplaced,0,Unplaced
+10945,Zoya Das,Male,18,Ahmedabad,MBA,9.48,DU,TCS,9.95,Placed
+10946,Riya Kumar,Male,24,Chennai,B.Com,8.89,DU,Microsoft,25.4,Placed
+10947,Vihaan Mehta,Female,26,Hyderabad,M.Sc,9.4,Anna University,Unplaced,0,Unplaced
+10948,Ishaan Kumar,Male,25,Jaipur,B.Sc,6.89,Anna University,Unplaced,0,Unplaced
+10949,Riya Mehta,Female,23,Lucknow,B.Sc,9.81,IIT Bombay,Capgemini,30.35,Placed
+10950,Aarav Patel,Male,26,Mumbai,B.Sc,7.32,IIT Delhi,Accenture,16.75,Placed
+10951,Anika Singh,Female,23,Ahmedabad,M.Sc,7.88,JNU,Unplaced,0,Unplaced
+10952,Aarav Chopra,Male,21,Hyderabad,MBA,6.06,IISc Bangalore,Unplaced,0,Unplaced
+10953,Vihaan Kumar,Female,27,Delhi,MBA,9.37,IIT Delhi,Capgemini,3.35,Placed
+10954,Mira Patel,Female,19,Kolkata,M.Tech,9.56,JNU,Unplaced,0,Unplaced
+10955,Vihaan Sharma,Male,27,Mumbai,B.Sc,7.35,VIT,TCS,8.32,Placed
+10956,Saanvi Das,Female,22,Jaipur,B.Com,8.84,NIT Trichy,Unplaced,6.58,Placed
+10957,Zoya Gupta,Male,18,Jaipur,PhD,7.2,IIT Delhi,Unplaced,0,Unplaced
+10958,Ishaan Patel,Female,22,Kolkata,M.Tech,8.03,DU,Unplaced,0,Unplaced
+10959,Aarav Gupta,Male,25,Kolkata,B.Com,7.12,NIT Trichy,Unplaced,0,Unplaced
+10960,Ishaan Kumar,Female,21,Bangalore,B.Sc,8.14,NIT Trichy,TCS,27.41,Placed
+10961,Riya Mehta,Female,18,Kolkata,MBA,7.39,Anna University,Google,31.1,Placed
+10962,Saanvi Nair,Female,26,Delhi,B.Tech,8.81,BITS Pilani,TCS,33.22,Placed
+10963,Ishaan Nair,Male,19,Ahmedabad,MBA,6.61,IIT Delhi,Unplaced,0,Unplaced
+10964,Zoya Das,Female,23,Bangalore,M.Sc,9.92,IISc Bangalore,Unplaced,0,Unplaced
+10965,Zoya Patel,Male,19,Bangalore,M.Tech,7.87,Anna University,Google,21.36,Placed
+10966,Zoya Mehta,Female,24,Jaipur,B.Sc,6.78,Anna University,Infosys,21.85,Placed
+10967,Saanvi Chopra,Male,23,Hyderabad,B.A,9.96,NIT Trichy,Unplaced,0,Unplaced
+10968,Anika Gupta,Female,23,Delhi,B.A,7.82,DU,IBM,3.15,Placed
+10969,Mira Reddy,Female,21,Ahmedabad,M.Sc,6.94,IIT Delhi,Unplaced,0,Unplaced
+10970,Zoya Nair,Male,27,Jaipur,MBA,9.3,Anna University,Unplaced,3.98,Placed
+10971,Anika Reddy,Male,18,Bangalore,B.Sc,8.45,JNU,Unplaced,0,Unplaced
+10972,Mira Nair,Male,23,Bangalore,B.Sc,6.18,VIT,Microsoft,22.12,Placed
+10973,Zoya Mehta,Male,20,Kolkata,B.Tech,8.19,IIT Delhi,Unplaced,0,Unplaced
+10974,Ishaan Kumar,Female,18,Delhi,MBA,7.87,IIT Bombay,Unplaced,0,Unplaced
+10975,Aarav Mehta,Male,23,Mumbai,PhD,9.84,Anna University,Unplaced,0,Unplaced
+10976,Saanvi Chopra,Male,25,Lucknow,M.Tech,9.33,JNU,Unplaced,0,Unplaced
+10977,Aarav Chopra,Female,25,Hyderabad,M.Sc,6.06,Manipal University,Accenture,6.8,Placed
+10978,Kabir Sharma,Female,22,Lucknow,B.Sc,6.26,IIT Bombay,IBM,8.68,Placed
+10979,Saanvi Reddy,Female,22,Mumbai,B.Sc,8.24,BITS Pilani,Unplaced,0,Unplaced
+10980,Aarav Kumar,Male,23,Jaipur,PhD,8.55,NIT Trichy,Amazon,11.21,Placed
+10981,Mira Gupta,Male,20,Bangalore,M.Sc,9.9,VIT,TCS,27.75,Placed
+10982,Riya Reddy,Male,26,Jaipur,PhD,8.06,IIT Delhi,Google,22.65,Placed
+10983,Kabir Das,Male,27,Pune,M.Tech,9,Manipal University,Unplaced,0,Unplaced
+10984,Anika Patel,Male,19,Pune,B.Sc,6.14,IISc Bangalore,Unplaced,0,Unplaced
+10985,Anika Patel,Female,24,Bangalore,B.Sc,9.31,VIT,Microsoft,16.78,Placed
+10986,Anika Das,Male,22,Pune,B.A,8.55,Manipal University,Accenture,23.66,Placed
+10987,Vihaan Nair,Female,19,Ahmedabad,B.Sc,6.77,Manipal University,Google,20.78,Placed
+10988,Vihaan Reddy,Male,25,Chennai,B.A,7.48,IIT Bombay,Google,6.77,Placed
+10989,Kabir Sharma,Female,23,Pune,B.A,6.79,Anna University,TCS,29.36,Placed
+10990,Aryan Nair,Female,19,Ahmedabad,MBA,7,Manipal University,Amazon,18.31,Placed
+10991,Ishaan Nair,Male,19,Hyderabad,M.Tech,8.66,NIT Trichy,Unplaced,0,Unplaced
+10992,Ishaan Kumar,Male,27,Jaipur,MBA,6.18,JNU,TCS,34.28,Placed
+10993,Kabir Mehta,Male,23,Ahmedabad,M.Tech,7.12,IISc Bangalore,Microsoft,4.3,Placed
+10994,Aarav Chopra,Female,21,Pune,MBA,8.42,DU,Unplaced,0,Unplaced
+10995,Anika Chopra,Male,21,Hyderabad,B.A,7.62,IIT Bombay,Deloitte,17.61,Placed
+10996,Anika Patel,Female,18,Ahmedabad,B.A,7.79,IISc Bangalore,Unplaced,0,Unplaced
+10997,Aryan Reddy,Male,20,Bangalore,B.Com,9.73,VIT,Unplaced,0,Unplaced
+10998,Riya Chopra,Male,19,Jaipur,PhD,9.22,IIT Bombay,Amazon,24.75,Placed
+10999,Saanvi Singh,Male,24,Pune,B.Tech,6.88,IISc Bangalore,Unplaced,0,Unplaced
+11000,Saanvi Singh,Male,22,Chennai,PhD,9.14,Anna University,IBM,22.15,Placed
